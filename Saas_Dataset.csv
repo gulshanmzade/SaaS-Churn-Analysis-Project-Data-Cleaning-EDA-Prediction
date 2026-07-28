@@ -1,0 +1,1226 @@
+customer_id,company,industry,country,signup_date,plan_level,billing_cycle,monthly_revenue,active_days,feature_usage_score,support_tickets,acquisition_channel,last_login_days_ago,nps_score,churned
+1697,Cloudify,Real Estate,India,1/21/2024,Free,monthly,$60.16 ,9,9%,4,google ads,27,N/A,1
+1181,Notion,Real Estate,UK,6/12/2024,Free,monthly,£0.26,27,69%,0,Organic,25,N/A,0
+2007,Notion,FinTech,USA,15-03-2024,Free,monthly,$2.51 ,23,23%,3,google ads,23,N/A,0
+1845,MarketPro,Healthcare,USA,6/28/2024,Free,Monthly,$14.10 ,16,124%,7,Google Ads,30+,N/A,0
+1309,FinCorp,Education,U.K.,21-06-2024,Pro,Annual,£478.39,13,73%,3,Organic,12,N/A,0
+1189,Notion,FinTech,UK,9/17/2024,Basic,Monthly,£104.63,1,80%,2,Organic,55,10,1
+1203,MarketPro,E-commerce,USA,2/25/2024,Basic,Annual,$39.22 ,9,58%,7,Organic,34,10,1
+1149,Notion,SaaS,UK,11/20/2024,Pro,Annual,£85.62,10+,71%,3,Google Ads,9,10,0
+1663,Stripe,FinTech,America,9/7/2024,Basic,monthly,$84.30 ,10+,84%,3,Organic,9,10,0
+1860,Notion,Education,Germany,18-01-2024,Basic,Annual,€60.51,10+,84%,3,Referral,9,10,0
+1665,Salesforce,Real Estate,Germany,4/15/2024,Basic,Monthly,€63.2,10+,78%,3,Organic,14,10,0
+1653,Notion,E-commerce,Germany,6/14/2024,Basic,Monthly,€50.06,10+,61%,2,Organic,10,10,0
+1151,Stripe,Real Estate,America,3/4/2024,Pro,monthly,$886.02 ,10+,82%,1,Referral,0,10,0
+2139,Cloudify,Education,UK,4/15/2024,Pro,Annual,£739.88,10+,68%,1,Organic,5,10,0
+1670,HubSpot,Real Estate,UK,2/22/2024,Basic,Monthly,£128.39,10+,90%,1,Referral,9,10,0
+1707,Stripe,Healthcare,U.S.A.,2/4/2024,Enterprise,Annual,"$1,423.42 ",10+,94%,0,Organic,1,10,0
+1992,HubSpot,FinTech,UK,4/25/2024,Pro,Monthly,£344.71,10+,135%,0,Google Ads,5,10,0
+1964,Notion,Real Estate,UK,8/13/2024,Enterprise,Annual,£678.89,10+,80%,0,google ads,6,10,0
+1732,Stripe,Education,USA,2/4/2024,Enterprise,Annual,$673.74 ,10+,94%,0,Organic,7,10,0
+1214,FinCorp,SaaS,UK,4/10/2024,Pro,Monthly,£91.61,10+,94%,0,Referral,2,10,0
+1197,MarketPro,SaaS,USA,6/25/2024,Enterprise,Annual,$571.61 ,30,80%,0,LinkedIn Ads,3,10,0
+2113,DataNest,Education,Germany,21-04-2024,Pro,monthly,€302.19,30,84%,0,Referral,30+,10,0
+1045,MarketPro,FinTech,USA,5/9/2024,Pro,Monthly,$428.11 ,29,91%,1,Google Ads,3,10,0
+2170,DataNest,FinTech,Germany,11/27/2024,Enterprise,Annual,€533.42,29,96%,0,Google Ads,2,10,0
+1955,HubSpot,Real Estate,United Kingdom,1/24/2024,Pro,monthly,£85.94,28,81%,1,Organic,7,10,0
+1370,DataNest,Healthcare,UK,7/4/2024,Pro,Annual,£114.13,26,59%,1,Google Ads,4,10,0
+1619,MarketPro,E-commerce,Canada,9/27/2024,Basic,Monthly,$114.70 ,25,93%,1,Organic,15,10,0
+1944,Stripe,Marketing,America,12/3/2024,Basic,monthly,$40.97 ,24,91%,1,Organic,3,10,0
+1150,Salesforce,Real Estate,USA,9/7/2024,Basic,Monthly,$136.81 ,23,69%,1,Organic,7,10,0
+1124,Zendesk,Marketing,Australia,6/28/2024,Pro,Annual,$224.24 ,23,91%,0,Google Ads,30+,10,0
+1391,Notion,Healthcare,USA,24-07-2024,Basic,monthly,$41.38 ,22,73%,2,Referral,8,10,0
+1447,Notion,Education,U.K.,7/4/2024,Pro,Annual,£166.99,22,97%,0,Referral,2,10,0
+1379,DataNest,SaaS,UK,12/12/2024,Pro,ANNUAL,£128.29,21,75%,2,Referral,30+,10,0
+2055,DataNest,Education,UK,3/23/2024,Basic,Annual,£128.15,21,67%,1,Organic,5,10,0
+1317,Salesforce,SaaS,USA,3/1/2024,Pro,Annual,$268.33 ,21,97%,0,Organic,3,10,0
+1569,Stripe,FinTech,U.S.A.,7/18/2024,Pro,Annual,$237.35 ,20,75%,1,LinkedIn Ads,7,10,0
+1134,Cloudify,FinTech,USA,1/20/2024,Free,monthly,$2.52 ,19,33%,3,Organic,30+,10,0
+1261,Salesforce,Marketing,USA,7/1/2024,Basic,Monthly,$188.37 ,19,83%,1,Organic,9,10,0
+1277,FinCorp,SaaS,America,3/1/2024,Basic,Annual,$161.58 ,18,39%,3,Google Ads,30+,10,0
+1501,Zendesk,FinTech,USA,12/17/2024,Pro,Monthly,$236.87 ,18,100%,2,Referral,5,10,0
+1192,HubSpot,FinTech,UK,5/21/2024,Enterprise,Annual,£536.74,18,82%,1,Organic,0,10,0
+1354,DataNest,Education,Germany,12/23/2024,Enterprise,ANNUAL,€1737.06,17,90%,3,Google Ads,4,10,0
+1626,Salesforce,Real Estate,USA,2/3/2024,Enterprise,ANNUAL,$125.53 ,17,80%,1,google ads,7,10,0
+1019,Stripe,Education,America,1/4/2024,Basic,monthly,$106.71 ,17,66%,1,Organic,15,10,0
+1906,Notion,Healthcare,UK,9/20/2024,Pro,Annual,£267.45,16,74%,4,Google Ads,11,10,0
+1767,Stripe,E-commerce,USA,4/9/2024,Pro,Monthly,$303.02 ,16,71%,2,google ads,17,10,0
+1094,Zendesk,Real Estate,USA,4/10/2024,Pro,Annual,$155.26 ,16,74%,1,Google Ads,4,10,0
+1924,Notion,FinTech,UK,11/4/2024,Pro,Monthly,£117.86,16,89%,0,Referral,2,10,0
+1047,Salesforce,FinTech,DE,6/25/2024,Basic,Annual,€67.17,16,76%,0,Organic,4,10,0
+2039,Stripe,Marketing,U.S.A.,23-11-2024,Basic,Annual,$128.02 ,15,57%,2,LinkedIn Ads,7,10,0
+1840,Salesforce,FinTech,DE,3/4/2024,Basic,monthly,€165.55,15,55%,1,Organic,8,10,0
+1826,Stripe,SaaS,Canada,6/11/2024,Basic,Monthly,$69.00 ,15,78%,1,Organic,2,10,0
+1656,MarketPro,Healthcare,Canada,4/6/2024,Pro,Monthly,$222.42 ,15,89%,0,Referral,0,10,0
+2123,Zendesk,E-commerce,USA,3/28/2024,Basic,Annual,$71.09 ,14,85%,4,Organic,6,10,0
+1848,FinCorp,Healthcare,U.K.,7/9/2024,Enterprise,Annual,£1429.65,14,59%,0,google ads,15,10,0
+1237,HubSpot,SaaS,United Kingdom,10/6/2024,Free,Monthly,£0.13,13,3%,6,Google Ads,33,10,0
+1527,DataNest,SaaS,UK,1/18/2024,Enterprise,Annual,£1283.36,13,87%,3,Referral,2,10,0
+1390,Salesforce,SaaS,DE,3/14/2024,Basic,monthly,€72.33,13,78%,3,Organic,10,10,0
+1646,HubSpot,Healthcare,USA,12/23/2024,Pro,ANNUAL,$384.74 ,13,67%,2,Google Ads,7,10,0
+1129,HubSpot,Healthcare,USA,2/20/2024,Basic,Monthly,$49.44 ,13,77%,2,Referral,16,10,0
+1902,Cloudify,E-commerce,UK,11/3/2024,Enterprise,Annual,£1020.22,13,100%,1,Organic,5,10,0
+1987,DataNest,Marketing,Germany,11/21/2024,Pro,Annual,€484.83,13,94%,0,Organic,30+,10,0
+1829,Salesforce,SaaS,Germany,7/4/2024,Basic,ANNUAL,€2621.66,12,73%,5,LinkedIn Ads,2,10,0
+1901,HubSpot,Education,UK,12/3/2024,Pro,Monthly,£229.57,12,95%,3,Organic,7,10,0
+2179,Zendesk,Healthcare,USA,12/11/2024,Basic,Monthly,$115.48 ,12,94%,3,Organic,30+,10,0
+1244,HubSpot,Education,UK,7/6/2024,Enterprise,ANNUAL,£904.86,12,87%,2,Referral,0,10,0
+1112,Stripe,Education,Canada,17-06-2024,Enterprise,Annual,$660.03 ,11,92%,0,Organic,7,10,0
+2107,DataNest,Healthcare,Germany,3/10/2024,Pro,Annual,€360.45,10,91%,2,Google Ads,9,10,0
+1510,MarketPro,E-commerce,USA,10/3/2024,Pro,Annual,$121.24 ,10,99%,1,Organic,2,10,0
+2031,Notion,Real Estate,USA,9/2/2024,Basic,Monthly,$239.90 ,9,82%,2,Organic,12,10,0
+1598,HubSpot,FinTech,United Kingdom,1/26/2024,Pro,Monthly,£291.89,8,93%,0,google ads,5,10,0
+1735,DataNest,Education,UK,3/25/2024,Pro,Annual,£176.8,7,78%,2,Google Ads,8,10,0
+1007,Notion,E-commerce,Germany,27-06-2024,Basic,monthly,€182.61,7,77%,1,Organic,11,10,0
+1148,MarketPro,E-commerce,Australia,9/4/2024,Basic,monthly,$38.49 ,6,61%,4,Organic,9,10,0
+1507,HubSpot,SaaS,USA,11/21/2024,Basic,monthly,$124.06 ,6,64%,3,Organic,3,10,0
+1711,Stripe,Marketing,Canada,2/5/2024,Pro,Annual,$198.72 ,6,96%,2,Organic,0,10,0
+2185,DataNest,E-commerce,Germany,8/14/2024,Pro,monthly,€348.54,6,74%,2,Google Ads,17,10,0
+1424,MarketPro,Marketing,Australia,4/4/2024,Enterprise,Annual,$175.04 ,6,89%,1,LinkedIn Ads,2,10,0
+1483,MarketPro,Education,Australia,1/9/2024,Enterprise,ANNUAL,$224.69 ,6,77%,0,Organic,1,10,0
+1752,DataNest,SaaS,UK,10/8/2024,Enterprise,Annual,£903.66,4,80%,1,Google Ads,7,10,0
+1884,Zendesk,E-commerce,Australia,5/10/2024,Basic,Annual,$64.04 ,3,66%,1,LinkedIn Ads,11,10,0
+1072,MarketPro,Healthcare,Australia,9/7/2024,Basic,Monthly,$149.36 ,2,76%,1,Organic,9,10,0
+1655,Zendesk,Real Estate,USA,7/26/2024,Pro,Annual,$37.19 ,2,76%,0,Organic,1,10,0
+2187,Zendesk,Marketing,USA,9/7/2024,Basic,Monthly,$177.04 ,2,74%,0,Organic,3,10,0
+1388,Notion,E-commerce,USA,3/21/2024,Pro,monthly,$107.05 ,10+,93%,2,Organic,9,9,1
+1000,Notion,SaaS,USA,12/4/2024,Pro,Annual,$133.10 ,10+,81%,6,Organic,44,9,1
+1280,DataNest,Healthcare,DE,13-04-2024,Free,Monthly,€3.72,10+,40%,10,google ads,54,9,0
+1532,Notion,Healthcare,USA,27-12-2024,Basic,Annual,$19.27 ,2,59%,4,Organic,13,9,1
+1057,Salesforce,SaaS,Germany,24-03-2024,Basic,Monthly,€81.22,10+,71%,8,Direct,16,9,0
+1341,DataNest,Education,DE,6/20/2024,Free,Monthly,€0.1,10+,74%,5,Organic,10,9,0
+1110,Notion,E-commerce,UK,11/13/2024,Basic,monthly,£492.61,10+,71%,5,google ads,14,9,0
+1056,Zendesk,SaaS,Australia,7/11/2024,Basic,Annual,$57.58 ,10+,61%,4,Organic,30+,9,0
+1030,DataNest,FinTech,UK,1/21/2024,Pro,Monthly,£280.29,10+,98%,3,Organic,7,9,0
+1256,FinCorp,Education,America,10/11/2024,Pro,monthly,$154.85 ,10+,61%,3,Organic,12,9,0
+1159,MarketPro,Real Estate,Australia,15-04-2024,Basic,monthly,$55.45 ,10+,69%,3,Organic,15,9,0
+1182,HubSpot,Healthcare,UK,2/6/2024,Free,Monthly,£1.65,10+,71%,3,Organic,29,9,0
+2015,Salesforce,E-commerce,USA,8/5/2024,Basic,ANNUAL,$105.86 ,10+,73%,2,Direct,5,9,0
+1041,MarketPro,SaaS,USA,9/10/2024,Pro,ANNUAL,$218.49 ,10+,56%,2,google ads,7,9,0
+1694,Salesforce,E-commerce,USA,10/7/2024,Basic,monthly,$53.01 ,10+,64%,2,Organic,30+,9,0
+1751,Zendesk,Marketing,Australia,6/9/2024,Pro,Monthly,$284.80 ,10+,98%,1,LinkedIn Ads,1,9,0
+1659,HubSpot,E-commerce,USA,8/9/2024,Pro,monthly,$225.36 ,10+,78%,1,Organic,5,9,0
+1688,MarketPro,Marketing,Canada,6/9/2024,Enterprise,Annual,$295.39 ,10+,90%,1,Organic,5,9,0
+1825,Stripe,Education,Canada,7/13/2024,Basic,Monthly,$120.74 ,10+,73%,1,Organic,5,9,0
+1285,Salesforce,SaaS,USA,9/15/2024,Pro,Annual,$194.00 ,10+,92%,0,Organic,7,9,0
+1253,Zendesk,Healthcare,USA,2/13/2024,Basic,monthly,$72.78 ,93,58%,0,Organic,12,9,0
+1257,MarketPro,Education,Australia,10/8/2024,Free,Monthly,$5.11 ,30,35%,3,Referral,30+,9,0
+1032,Stripe,E-commerce,Canada,12/26/2024,Basic,monthly,$97.93 ,30,89%,2,Organic,7,9,0
+1536,MarketPro,Real Estate,Canada,10/16/2024,Enterprise,Annual,"$3,319.70 ",30,89%,1,Google Ads,6,9,0
+1617,MarketPro,E-commerce,Australia,9/4/2024,Pro,Annual,$340.27 ,29,64%,3,Google Ads,6,9,0
+1398,MarketPro,Education,Canada,9/18/2024,Pro,monthly,$465.29 ,27,78%,3,Referral,3,9,0
+1235,Notion,Education,U.K.,16-09-2024,Enterprise,Annual,£935.34,27,79%,0,Google Ads,7,9,0
+1247,Cloudify,Education,UK,6/6/2024,Basic,Annual,£75.01,26,9%,6,Google Ads,22,9,0
+1219,Stripe,E-commerce,America,12/7/2024,Free,Monthly,$17.27 ,26,50%,4,Referral,30,9,0
+1997,Notion,FinTech,Germany,7/9/2024,Basic,monthly,€11.38,26,66%,2,Organic,5,9,0
+1384,Notion,SaaS,U.K.,11/10/2024,Basic,Annual,£451.68,25,76%,2,Organic,9,9,0
+1896,DataNest,FinTech,Germany,11/27/2024,Free,monthly,€63.93,24,32%,6,google ads,23,9,0
+1345,Salesforce,Real Estate,Germany,23-02-2024,Pro,Monthly,€225.64,24,88%,1,Organic,7,9,0
+1139,Zendesk,Real Estate,Australia,5/24/2024,Pro,ANNUAL,$107.28 ,24,93%,0,Organic,0,9,0
+1223,DataNest,Education,DE,28-06-2024,Free,Monthly,€13.33,23,48%,3,Referral,21,9,0
+2070,MarketPro,E-commerce,USA,9/2/2024,Enterprise,Annual,$344.62 ,23,97%,2,LinkedIn Ads,6,9,0
+1177,DataNest,Real Estate,Germany,7/23/2024,Basic,Monthly,€104.56,22,66%,2,Organic,3,9,0
+1910,HubSpot,Healthcare,United Kingdom,2/14/2024,Pro,ANNUAL,£438.75,22,98%,1,Organic,0,9,0
+1304,Stripe,Education,Canada,9/17/2024,Pro,Annual,$260.88 ,22,84%,1,Organic,1,9,0
+1952,HubSpot,SaaS,UK,10/8/2024,Pro,Monthly,£288.89,21,94%,2,Organic,5,9,0
+1366,Salesforce,Marketing,Germany,16-07-2024,Basic,Monthly,€50.58,20,79%,2,Referral,15,9,0
+2156,Salesforce,Education,Germany,12/2/2024,Basic,Monthly,€89.03,20,59%,2,LinkedIn Ads,30+,9,0
+1640,Notion,Real Estate,U.K.,10/21/2024,Basic,Monthly,£226.04,20,89%,0,Organic,30+,9,0
+1211,Stripe,Healthcare,America,11/3/2024,Basic,monthly,$48.18 ,19,71%,4,Organic,6,9,0
+1938,Salesforce,Healthcare,USA,19-02-2024,Pro,Monthly,$108.90 ,19,57%,4,Google Ads,17,9,0
+1233,HubSpot,Marketing,UK,7/3/2024,Pro,Monthly,£127.85,19,89%,2,Organic,0,9,0
+2138,MarketPro,SaaS,Canada,8/11/2024,Pro,Annual,$137.24 ,19,97%,2,LinkedIn Ads,5,9,0
+1554,Salesforce,Marketing,USA,7/18/2024,Basic,Annual,$28.57 ,18,90%,4,Organic,3,9,0
+1205,FinCorp,Education,UK,6/4/2024,Basic,Annual,£29.64,17,68%,4,Organic,28,9,0
+1202,Salesforce,Healthcare,DE,5/2/2024,Free,Monthly,€5.51,16,45%,3,Organic,19,9,0
+1352,MarketPro,E-commerce,USA,1/16/2024,Free,monthly,$38.25 ,15,63%,3,Organic,10,9,0
+1035,Notion,FinTech,UK,7/4/2024,Basic,Annual,£159.32,15,94%,3,LinkedIn Ads,12,9,0
+1402,Zendesk,FinTech,USA,5/12/2024,Basic,Annual,$44.36 ,14,85%,2,Organic,7,9,0
+1018,MarketPro,Healthcare,Australia,9/25/2024,Pro,monthly,$186.92 ,14,73%,2,Google Ads,12,9,0
+1054,Salesforce,FinTech,Germany,9/22/2024,Basic,Monthly,€266.73,14,65%,1,Organic,5,9,0
+1179,FinCorp,Education,U.S.A.,2/8/2024,Free,Monthly,$1.66 ,13,30%,3,Organic,23,9,0
+1819,DataNest,Real Estate,DE,7/23/2024,Enterprise,Annual,€1172.69,13,85%,0,Organic,5,9,0
+1833,Salesforce,SaaS,DE,3/24/2024,Pro,Annual,€398.18,13,93%,0,Organic,5,9,0
+1466,Zendesk,Real Estate,Australia,23-10-2024,Basic,monthly,$110.13 ,13,81%,0,Organic,16,9,0
+1361,Notion,E-commerce,U.K.,6/11/2024,Pro,Annual,£59.08,12,75%,3,Organic,3,9,0
+1020,Notion,SaaS,USA,3/5/2024,Pro,ANNUAL,$251.64 ,12,80%,0,Organic,1,9,0
+1666,Notion,Education,UK,3/21/2024,Pro,Annual,£175.93,12,100%,0,Organic,6,9,0
+1758,HubSpot,Healthcare,UK,28-09-2024,Basic,Monthly,£9.64,11,64%,3,Organic,8,9,0
+1196,Salesforce,Healthcare,USA,9/25/2024,Enterprise,ANNUAL,"$2,092.88 ",11,88%,0,Organic,0,9,0
+1930,MarketPro,Real Estate,Canada,8/16/2024,Pro,Monthly,$294.14 ,10,75%,2,Referral,5,9,0
+1183,DataNest,Real Estate,DE,11/19/2024,Pro,Monthly,€635.25,10,94%,0,Referral,7,9,0
+1335,MarketPro,FinTech,Canada,2/20/2024,Pro,Annual,$107.30 ,9,94%,4,Organic,0,9,0
+1240,MarketPro,Marketing,USA,3/6/2024,Pro,Annual,$330.01 ,9,92%,4,google ads,5,9,0
+1240,MarketPro,Marketing,USA,3/6/2024,Pro,Annual,$330.01 ,9,92%,4,google ads,5,9,0
+1630,HubSpot,FinTech,UK,12/17/2024,Basic,ANNUAL,£32.52,7,67%,3,Referral,23,9,0
+1970,Notion,Healthcare,USA,3/28/2024,Free,Monthly,$9.53 ,7,36%,3,Google Ads,31,9,0
+1671,FinCorp,FinTech,Australia,1/12/2024,Pro,Monthly,$83.10 ,7,70%,2,Organic,11,9,0
+1506,Stripe,Education,USA,5/16/2024,Enterprise,Annual,$854.99 ,7,78%,0,Organic,3,9,0
+2009,DataNest,Real Estate,UK,5/11/2024,Basic,ANNUAL,£57.08,6,68%,3,Organic,15,9,0
+1339,FinCorp,Healthcare,U.K.,16-10-2024,Basic,Monthly,£171.93,6,63%,3,Referral,30,9,0
+1522,Notion,SaaS,Germany,11/22/2024,Basic,monthly,€128.18,6,81%,2,Organic,3,9,0
+1160,Cloudify,SaaS,USA,14-06-2024,Free,Monthly,$23.18 ,5,40%,3,Organic,45,9,0
+1087,FinCorp,Education,USA,16-04-2024,Basic,ANNUAL,$115.95 ,4,36%,5,Google Ads,44,9,0
+1008,Salesforce,E-commerce,DE,12/22/2024,Pro,ANNUAL,€439.38,4,98%,1,Organic,2,9,0
+1327,Cloudify,E-commerce,India,7/22/2024,Basic,Monthly,$483.94 ,3,56%,5,Organic,19,9,0
+1633,Salesforce,SaaS,Germany,6/12/2024,Pro,Annual,€45.55,3,66%,3,Google Ads,15,9,0
+1667,Stripe,E-commerce,USA,6/2/2024,Pro,Annual,$536.10 ,3,55%,1,Google Ads,4,9,0
+1470,Cloudify,Education,India,8/1/2024,Pro,Monthly,$48.43 ,2,87%,1,Organic,12,9,0
+1949,DataNest,SaaS,DE,10/24/2024,Basic,Monthly,€45.64,1,61%,6,Organic,7,9,0
+1070,DataNest,FinTech,DE,4/27/2024,Basic,Annual,€66.63,1,79%,3,Organic,3,9,0
+1620,Zendesk,Education,Australia,25-04-2024,Pro,Annual,$54.52 ,1,87%,2,Google Ads,11,9,0
+1542,MarketPro,Marketing,Canada,11/24/2024,Pro,Annual,$152.44 ,1,57%,2,google ads,30+,9,0
+1996,HubSpot,Real Estate,USA,1/26/2024,Free,Monthly,$3.09 ,10+,19%,8,google ads,23,8,0
+1664,HubSpot,Real Estate,USA,2/25/2024,Free,Monthly,$7.06 ,10+,10%,8,Google Ads,41,8,0
+1489,Salesforce,Marketing,DE,16-11-2024,Pro,monthly,€683.14,17,92%,7,LinkedIn Ads,1,8,1
+2029,DataNest,E-commerce,DE,5/5/2024,Basic,Monthly,€38.28,10+,57%,3,Organic,23,8,1
+1278,FinCorp,Marketing,U.K.,10/28/2024,Pro,Monthly,£439.29,16,63%,0,Organic,30+,8,1
+1241,,FinTech,India,10/9/2024,Basic,monthly,$41.21 ,4,69%,5,Organic,30+,8,1
+1561,Salesforce,Education,DE,18-12-2024,Basic,ANNUAL,€26.65,10+,81%,6,Organic,11,8,0
+1107,Zendesk,FinTech,USA,10/1/2024,Free,Monthly,$2.57 ,10+,35%,6,google ads,23,8,0
+1820,Zendesk,Education,USA,2/5/2024,Pro,monthly,$188.28 ,10+,75%,5,google ads,11,8,0
+1820,Zendesk,Education,USA,2/5/2024,Pro,monthly,$188.28 ,10+,75%,5,google ads,11,8,0
+1243,Zendesk,Healthcare,Australia,11/13/2024,Free,Monthly,$0.69 ,10+,44%,5,google ads,32,8,0
+1606,Zendesk,Real Estate,Australia,18-09-2024,Basic,Monthly,$62.93 ,10+,62%,4,Referral,17,8,0
+2014,Salesforce,SaaS,Germany,11/28/2024,Basic,monthly,€44.44,10+,88%,3,Organic,6,8,0
+1351,MarketPro,Marketing,Australia,8/8/2024,Pro,Monthly,$39.67 ,10+,76%,3,google ads,30+,8,0
+1887,MarketPro,Real Estate,USA,1/2/2024,Pro,Annual,$44.92 ,10+,90%,2,Referral,0,8,0
+1984,DataNest,FinTech,Germany,6/23/2024,Pro,Annual,€94.69,10+,90%,2,Organic,5,8,0
+1613,DataNest,FinTech,DE,4/28/2024,Pro,Monthly,€220.95,10+,66%,2,Google Ads,7,8,0
+2173,HubSpot,Healthcare,UK,11/25/2024,Basic,Monthly,£182.38,10+,56%,2,Organic,3,8,0
+1173,DataNest,SaaS,UK,5/2/2024,Pro,ANNUAL,£50.66,10+,99%,1,Organic,1,8,0
+2195,HubSpot,FinTech,USA,7/23/2024,Pro,monthly,$40.84 ,10+,83%,1,Organic,1,8,0
+1248,Salesforce,Education,USA,9/15/2024,Enterprise,ANNUAL,$386.17 ,10+,77%,1,google ads,4,8,0
+1490,HubSpot,Marketing,United Kingdom,4/8/2024,Pro,Annual,£126.23,10+,94%,1,Organic,6,8,0
+1310,MarketPro,Education,Canada,24-08-2024,Enterprise,ANNUAL,$976.46 ,10+,85%,1,Google Ads,7,8,0
+1282,Salesforce,SaaS,USA,7/22/2024,Basic,monthly,$124.77 ,10+,80%,1,Organic,8,8,0
+1699,MarketPro,Healthcare,Australia,7/15/2024,Pro,Monthly,$228.06 ,10+,82%,1,Google Ads,15,8,0
+1877,MarketPro,Education,Australia,19-03-2024,Pro,Annual,$498.07 ,10+,79%,0,Referral,6,8,0
+1436,HubSpot,Marketing,USA,6/26/2024,Pro,ANNUAL,$239.11 ,30,89%,5,google ads,11,8,0
+1374,Zendesk,Real Estate,Australia,27-02-2024,Basic,Monthly,$15.89 ,30,78%,2,Organic,14,8,0
+1288,DataNest,Marketing,Germany,2/8/2024,Pro,ANNUAL,€195.87,30,92%,0,Organic,6,8,0
+1592,Cloudify,Healthcare,India,3/5/2024,Free,monthly,$0.53 ,29,42%,6,Organic,23,8,0
+1919,Notion,FinTech,U.K.,17-03-2024,Free,monthly,£6.3,29,38%,4,Google Ads,22,8,0
+2000,FinCorp,Healthcare,Canada,5/19/2024,Enterprise,Annual,$196.24 ,29,79%,1,Organic,7,8,0
+1224,Stripe,SaaS,USA,11/13/2024,Pro,Annual,$105.37 ,29,91%,0,Referral,6,8,0
+1114,Notion,SaaS,USA,3/10/2024,Pro,Annual,$332.53 ,28,88%,1,Google Ads,10,8,0
+1881,FinCorp,Healthcare,America,9/23/2024,Pro,Annual,$71.88 ,27,65%,6,Organic,9,8,0
+1315,HubSpot,SaaS,USA,11/2/2024,Free,Monthly,$1.39 ,27,39%,3,Organic,17,8,0
+1260,HubSpot,SaaS,United Kingdom,3/27/2024,Pro,Monthly,£244.43,27,94%,0,Organic,4,8,0
+1907,MarketPro,SaaS,Australia,9/23/2024,Basic,Annual,$103.45 ,26,85%,2,Organic,12,8,0
+1771,Zendesk,Healthcare,USA,2/10/2024,Basic,Monthly,$221.09 ,26,89%,2,Organic,3,8,0
+1322,Salesforce,SaaS,Germany,28-11-2024,Pro,ANNUAL,€192.64,26,88%,1,Referral,0,8,0
+1265,Zendesk,Healthcare,Australia,18-05-2024,Enterprise,Annual,"$1,453.72 ",26,90%,1,Organic,4,8,0
+1363,HubSpot,Education,United Kingdom,7/20/2024,Pro,Annual,£157.34,26,64%,1,google ads,3,8,0
+1654,MarketPro,E-commerce,USA,18-01-2024,Enterprise,Annual,"$1,548.14 ",25,80%,4,Organic,1,8,0
+1320,HubSpot,FinTech,USA,8/4/2024,Free,Monthly,$2.56 ,24,43%,4,Referral,33,8,0
+1737,Salesforce,FinTech,Germany,5/11/2024,Pro,Monthly,€697.47,24,69%,4,Google Ads,30+,8,0
+1026,DataNest,Real Estate,Germany,2/4/2024,Basic,Annual,€43.6,24,71%,2,Organic,4,8,0
+1038,HubSpot,SaaS,United Kingdom,1/15/2024,Enterprise,Annual,£1242.89,24,87%,1,Organic,4,8,0
+1472,Salesforce,E-commerce,USA,25-06-2024,Pro,Annual,$347.63 ,24,96%,0,Organic,4,8,0
+1883,HubSpot,E-commerce,UK,9/11/2024,Pro,Monthly,£197.57,23,92%,1,Organic,2,8,0
+1548,Stripe,Healthcare,America,4/21/2024,Pro,Monthly,$134.33 ,23,82%,0,Organic,6,8,0
+1622,Salesforce,SaaS,DE,6/17/2024,Free,Monthly,€26.24,22,49%,9,Organic,27,8,0
+2028,Stripe,E-commerce,USA,7/4/2024,Pro,Annual,$69.15 ,21,86%,2,Organic,7,8,0
+1614,MarketPro,SaaS,Australia,4/20/2024,Basic,Monthly,$329.54 ,21,33%,2,Google Ads,23,8,0
+1649,Cloudify,Healthcare,USA,4/24/2024,Pro,ANNUAL,$92.20 ,21,69%,1,Organic,10,8,0
+2176,Cloudify,Marketing,India,2/2/2024,Free,Monthly,$14.56 ,20,35%,3,Referral,42,8,0
+2111,Salesforce,E-commerce,USA,12/15/2024,Basic,Monthly,$109.29 ,20,74%,2,Direct,16,8,0
+1790,Stripe,Education,U.S.A.,13-11-2024,Enterprise,Annual,"$1,523.85 ",20,86%,1,Organic,5,8,0
+1605,HubSpot,SaaS,UK,9/9/2024,Free,Monthly,£13.94,19,41%,4,Google Ads,30+,8,0
+1835,Stripe,SaaS,U.S.A.,1/3/2024,Basic,monthly,$97.57 ,19,56%,2,Referral,17,8,0
+1126,Notion,SaaS,UK,11/10/2024,Pro,Monthly,£301.05,19,96%,1,Referral,6,8,0
+1385,Salesforce,SaaS,Germany,2/23/2024,Basic,Annual,€109.91,19,79%,0,Organic,15,8,0
+1485,FinCorp,SaaS,U.K.,11/23/2024,Free,Monthly,£10.82,18,44%,4,Organic,21,8,0
+1813,Notion,SaaS,U.K.,12/8/2024,Basic,monthly,£259.37,18,76%,2,Organic,10,8,0
+1851,Notion,Healthcare,U.K.,2/8/2024,Pro,Annual,£158.91,18,89%,0,Organic,6,8,0
+1631,Salesforce,Marketing,Germany,5/6/2024,Free,Monthly,€9.64,17,70%,4,Organic,23,8,0
+1552,DataNest,Healthcare,UK,1/25/2024,Enterprise,Annual,£160.07,17,78%,2,Referral,7,8,0
+1270,Salesforce,FinTech,USA,11/17/2024,Enterprise,ANNUAL,$208.89 ,17,90%,0,Google Ads,1,8,0
+2142,Stripe,Healthcare,USA,10/20/2024,Basic,Monthly,$185.78 ,16,87%,2,Organic,9,8,0
+1017,Stripe,Marketing,America,5/27/2024,Pro,Annual,$182.37 ,16,78%,2,google ads,10,8,0
+1153,HubSpot,FinTech,UK,3/24/2024,Enterprise,ANNUAL,£3829.24,16,84%,1,google ads,5,8,0
+1753,Zendesk,FinTech,USA,2/1/2024,Basic,monthly,$132.67 ,15,68%,3,Organic,4,8,0
+2045,FinCorp,Healthcare,Australia,1/1/2024,Enterprise,ANNUAL,$266.13 ,15,76%,3,google ads,5,8,0
+2087,Stripe,SaaS,U.S.A.,1/25/2024,Pro,Annual,$281.16 ,15,98%,0,Organic,6,8,0
+1440,Stripe,Healthcare,USA,5/2/2024,Pro,Annual,$116.99 ,14,67%,4,Google Ads,11,8,0
+1998,Salesforce,Education,USA,21-11-2024,Basic,Monthly,$265.94 ,14,74%,3,Organic,3,8,0
+2147,FinCorp,FinTech,Canada,3/11/2024,Pro,monthly,$207.34 ,14,67%,1,Referral,5,8,0
+1869,Salesforce,Real Estate,DE,12/5/2024,Pro,Monthly,€210.04,14,92%,0,Organic,1,8,0
+1357,HubSpot,SaaS,USA,11/14/2024,Basic,Monthly,$27.06 ,13,56%,2,Organic,9,8,0
+2049,Salesforce,E-commerce,Germany,5/22/2024,Enterprise,Annual,€304.41,13,93%,1,Organic,2,8,0
+1624,Notion,Education,UK,5/6/2024,Free,Monthly,£17.02,13,33%,1,Organic,14,8,0
+2169,FinCorp,Healthcare,United Kingdom,1/13/2024,Basic,Monthly,£61.26,11,30%,7,google ads,23,8,0
+1127,Notion,Healthcare,Germany,12/10/2024,Basic,ANNUAL,€21.25,11,74%,2,Referral,3,8,0
+1401,Salesforce,Healthcare,USA,2/14/2024,Pro,Annual,$74.24 ,11,83%,0,Organic,6,8,0
+2108,Cloudify,SaaS,UK,19-09-2024,Basic,Monthly,£56.03,10,13%,3,google ads,22,8,0
+1085,Zendesk,Education,Australia,7/27/2024,Basic,monthly,$54.97 ,10,67%,3,Organic,30+,8,0
+1652,Cloudify,SaaS,UK,11/18/2024,Enterprise,ANNUAL,£1726.63,10,86%,2,Organic,7,8,0
+1892,HubSpot,Marketing,United Kingdom,8/28/2024,Basic,Monthly,£181.76,10,68%,1,Organic,12,8,0
+1484,MarketPro,Marketing,Australia,10/10/2024,Pro,Monthly,$225.25 ,9,96%,3,Organic,2,8,0
+1011,Notion,Marketing,UK,8/13/2024,Enterprise,Annual,£1008.9,9,76%,0,Organic,4,8,0
+1616,Salesforce,FinTech,DE,9/10/2024,Basic,monthly,€103.2,8,66%,1,Organic,8,8,0
+1863,DataNest,Real Estate,Germany,11/15/2024,Pro,Monthly,€188.32,7,100%,3,Organic,7,8,0
+1408,HubSpot,Marketing,USA,12/24/2024,Enterprise,ANNUAL,$381.00 ,7,76%,2,Referral,4,8,0
+1169,Notion,Education,UK,6/10/2024,Pro,Annual,£246.26,7,96%,0,Organic,6,8,0
+1632,Zendesk,E-commerce,USA,11/6/2024,Free,Monthly,$5.43 ,7,73%,0,Organic,26,8,0
+1055,Salesforce,Education,Germany,2/22/2024,Pro,Monthly,€475.26,6,89%,1,Organic,2,8,0
+1511,Salesforce,Education,DE,6/8/2024,Pro,Annual,€224.98,6,97%,1,Organic,5,8,0
+2034,DataNest,Real Estate,DE,6/10/2024,Enterprise,Annual,€195.93,6,91%,1,Organic,7,8,0
+1319,MarketPro,E-commerce,Australia,1/9/2024,Pro,ANNUAL,$384.44 ,6,68%,0,google ads,4,8,0
+1080,Notion,E-commerce,UK,1/5/2024,Pro,Annual,£126.79,5,79%,1,Referral,6,8,0
+2066,MarketPro,Real Estate,USA,8/17/2024,Enterprise,Annual,"$1,178.05 ",4,75%,2,google ads,3,8,0
+1668,Salesforce,Healthcare,USA,11/1/2024,Pro,Annual,$26.69 ,4,78%,1,Organic,0,8,0
+1480,Salesforce,SaaS,Germany,7/17/2024,Pro,ANNUAL,€276.23,3,66%,1,Google Ads,12,8,0
+1888,Notion,Healthcare,Germany,9/2/2024,Basic,Monthly,€117.94,3,87%,1,Organic,17,8,0
+1258,Notion,Marketing,Germany,11/1/2024,Enterprise,Monthly,€1444.1,3,77%,0,Google Ads,0,8,0
+1566,Notion,Real Estate,U.K.,20-02-2024,Pro,ANNUAL,£326.62,3,84%,0,Organic,0,8,0
+1556,Salesforce,Marketing,DE,1/4/2024,Basic,monthly,€96.14,2,93%,1,Organic,17,8,0
+1965,Salesforce,Healthcare,Germany,3/15/2024,Enterprise,ANNUAL,€1929.57,1,100%,0,google ads,4,8,0
+1446,DataNest,E-commerce,Germany,6/6/2024,Free,Monthly,€10.58,10+,32%,8,Organic,16,7,0
+2155,Salesforce,E-commerce,USA,2/23/2024,Basic,Monthly,$114.43 ,10+,70%,8,Google Ads,33,7,0
+1103,Notion,E-commerce,UK,7/4/2024,Free,Monthly,£38.81,10+,39%,8,Google Ads,38,7,0
+1740,HubSpot,Marketing,UK,3/6/2024,Free,Monthly,£19.1,10+,36%,3,Google Ads,46,7,0
+1534,FinCorp,Real Estate,U.S.A.,21-11-2024,Free,Monthly,$14.96 ,10+,39%,5,LinkedIn Ads,7,7,0
+1879,DataNest,Marketing,Germany,3/6/2024,Free,Monthly,€21.55,10+,30%,7,Google Ads,23,7,0
+1993,Zendesk,Education,USA,6/19/2024,Free,monthly,$21.04 ,22,30%,5,Organic,22,7,1
+1168,HubSpot,Marketing,USA,11/13/2024,Free,monthly,$17.82 ,20,27%,1,Organic,34,7,1
+1855,DataNest,Education,DE,3/25/2024,Free,monthly,€2.29,29,68%,5,LinkedIn Ads,55,7,1
+1703,DataNest,SaaS,DE,10/7/2024,Basic,ANNUAL,€202.26,10+,46%,6,Google Ads,30+,7,0
+1855,DataNest,Education,DE,3/25/2024,Free,monthly,€2.29,29,68%,5,LinkedIn Ads,55,7,1
+1116,DataNest,E-commerce,UK,9/23/2024,Free,monthly,£8.31,10+,46%,5,Organic,18,7,0
+1295,MarketPro,Real Estate,Canada,4/8/2024,Free,Monthly,$29.97 ,11,70%,4,Organic,55,7,1
+1865,MarketPro,Real Estate,Australia,10/11/2024,Free,Monthly,$7.66 ,5,67%,6,LinkedIn Ads,16,7,1
+1865,MarketPro,Real Estate,Australia,10/11/2024,Free,Monthly,$7.66 ,5,67%,6,LinkedIn Ads,16,7,1
+2041,Stripe,Marketing,America,10/5/2024,Basic,Monthly,$252.18 ,10+,65%,6,Google Ads,42,7,1
+1719,Cloudify,SaaS,UK,10/28/2024,Basic,monthly,£146.94,10+,56%,4,Organic,20,7,0
+1406,HubSpot,Real Estate,UK,2/8/2024,Free,Monthly,£2.33,10+,72%,4,Organic,22,7,0
+1621,DataNest,Real Estate,UK,2/13/2024,Free,Monthly,£5.43,10+,43%,4,google ads,40,7,0
+1079,Notion,Education,UK,3/20/2024,Free,Monthly,£4.22,10+,45%,4,Organic,30+,7,0
+2025,Salesforce,SaaS,Germany,12/3/2024,Pro,Monthly,€130.26,10+,77%,3,Google Ads,5,7,0
+1465,Zendesk,SaaS,Australia,13-09-2024,Basic,Monthly,$38.88 ,10+,80%,3,Organic,6,7,0
+1714,MarketPro,FinTech,Australia,6/16/2024,Basic,Annual,$378.42 ,10+,70%,3,Organic,7,7,0
+2178,FinCorp,E-commerce,America,26-01-2024,Pro,Annual,$309.67 ,10+,71%,3,Google Ads,10,7,0
+2178,FinCorp,E-commerce,America,26-01-2024,Pro,Annual,$309.67 ,10+,71%,3,Google Ads,10,7,0
+1539,MarketPro,Real Estate,Canada,12/24/2024,Basic,ANNUAL,$57.98 ,10+,76%,3,Organic,13,7,0
+1468,Notion,Real Estate,U.K.,14-05-2024,Free,Monthly,£4.9,10+,45%,3,Organic,14,7,0
+1897,DataNest,SaaS,Germany,8/23/2024,Free,monthly,€59.15,10+,35%,3,Organic,16,7,0
+2197,MarketPro,Education,Australia,10/10/2024,Free,Monthly,$7.74 ,28,54%,5,Organic,31,7,1
+1254,Salesforce,Marketing,DE,1/5/2024,Free,monthly,€41.44,28,60%,8,Organic,31,7,1
+1246,Salesforce,FinTech,Germany,8/3/2024,Free,monthly,€5.77,12,34%,6,Organic,52,7,1
+1523,Cloudify,Real Estate,India,11/6/2024,Basic,Annual,$61.35 ,10+,33%,3,Referral,20,7,0
+1658,Zendesk,SaaS,Australia,12/18/2024,Basic,monthly,$40.03 ,16,28%,4,Google Ads,34,7,1
+1416,Stripe,Real Estate,U.S.A.,9/14/2024,Free,Monthly,$10.52 ,5,41%,6,Organic,34,7,1
+1627,DataNest,FinTech,UK,28-08-2024,Basic,Monthly,£19.66,10+,34%,3,google ads,30,7,0
+1066,MarketPro,Real Estate,Canada,6/12/2024,Free,Monthly,$20.34 ,13,42%,1,Organic,30+,7,0
+1423,MarketPro,SaaS,USA,27-03-2024,Pro,Annual,$156.96 ,4,61%,3,Google Ads,30+,7,0
+2019,Stripe,Education,Canada,19-12-2024,Free,Monthly,$7.63 ,17,38%,4,Organic,30+,7,0
+1423,MarketPro,SaaS,USA,27-03-2024,Pro,Annual,$156.96 ,4,61%,6,Google Ads,30+,7,0
+2074,Stripe,Education,America,1/14/2024,Free,monthly,$15.16 ,30,51%,5,Organic,34,7,0
+1104,Salesforce,Healthcare,DE,5/2/2024,Free,Monthly,€35.24,4,26%,3,Organic,34,7,0
+2016,HubSpot,SaaS,United Kingdom,8/16/2024,Free,Monthly,£1.62,30,30%,3,Referral,30+,7,0
+2035,HubSpot,E-commerce,USA,6/21/2024,Basic,monthly,$89.96 ,10+,25%,4,google ads,30+,7,1
+1971,Cloudify,Education,USA,5/6/2024,Pro,Annual,$248.83 ,10+,66%,2,Organic,11,7,0
+2051,DataNest,Healthcare,Germany,12/14/2024,Free,Monthly,€33.37,5,44%,4,Organic,30+,7,0
+1299,Salesforce,Marketing,DE,20-11-2024,Free,Monthly,€14.36,28,33%,5,Organic,45,7,0
+1340,Notion,E-commerce,UK,11/10/2024,Basic,Monthly,£41.84,7,63%,5,Organic,45,7,0
+1176,MarketPro,Real Estate,Australia,6/3/2024,Basic,Annual,$60.79 ,10+,54%,2,Google Ads,29,7,0
+2134,Salesforce,E-commerce,DE,5/7/2024,Basic,Annual,€4.62,10+,67%,2,google ads,32,7,0
+1075,DataNest,FinTech,Germany,11/4/2024,Free,Monthly,€3.86,10,42%,6,Organic,30+,7,1
+2068,MarketPro,E-commerce,Australia,2/8/2024,Free,Monthly,$4.11 ,10,64%,6,LinkedIn Ads,46,7,1
+2094,Stripe,Education,America,4/11/2024,Free,Monthly,$23.51 ,5,26%,10,Organic,30+,7,1
+1135,DataNest,Real Estate,DE,4/20/2024,Basic,Monthly,€57.36,10+,81%,1,Organic,4,7,0
+1827,Zendesk,FinTech,Australia,3/6/2024,Basic,Monthly,$189.89 ,10+,66%,1,Organic,8,7,0
+1821,Notion,Healthcare,Germany,10/13/2024,Basic,monthly,€35.43,10+,72%,1,Organic,14,7,0
+1166,MarketPro,Marketing,Australia,10/22/2024,Basic,Annual,$61.34 ,10+,57%,0,Organic,3,7,0
+1301,HubSpot,SaaS,United Kingdom,6/21/2024,Basic,ANNUAL,£277.18,84,76%,3,Organic,8,7,0
+1595,Cloudify,Healthcare,UK,10/22/2024,Free,Monthly,£26.08,33,42%,5,google ads,44,7,0
+1526,Notion,Education,Germany,10/15/2024,Free,Monthly,€33.0,30,66%,3,Organic,10,7,0
+1297,Notion,Education,USA,10/22/2024,Basic,Monthly,$80.79 ,30,36%,1,Google Ads,13,7,0
+1593,MarketPro,Marketing,USA,6/5/2024,Basic,monthly,$40.04 ,30,73%,1,google ads,30,7,0
+1105,Zendesk,FinTech,Australia,7/9/2024,Pro,Annual,$25.61 ,30,56%,1,Google Ads,30+,7,0
+1367,DataNest,Healthcare,DE,1/4/2024,Basic,Monthly,€39.05,29,48%,6,Google Ads,30,7,0
+2086,FinCorp,Healthcare,Germany,4/8/2024,Basic,Monthly,€29.41,28,18%,11,Google Ads,23,7,0
+2194,Stripe,E-commerce,U.S.A.,5/8/2024,Free,monthly,$4.71 ,28,58%,4,Organic,13,7,0
+1575,Zendesk,Marketing,USA,10/12/2024,Free,Monthly,$4.90 ,28,49%,2,Organic,31,7,0
+1140,HubSpot,Real Estate,USA,11/24/2024,Free,monthly,$12.86 ,27,45%,4,Organic,13,7,0
+1706,Zendesk,E-commerce,USA,26-08-2024,Free,Monthly,$8.84 ,27,43%,4,Referral,22,7,0
+1747,Zendesk,Education,USA,12/1/2024,Free,monthly,$3.01 ,26,74%,6,Organic,18,7,0
+2154,DataNest,SaaS,DE,3/23/2024,Basic,monthly,€91.34,26,63%,2,Referral,30+,7,0
+1438,DataNest,FinTech,Germany,20-04-2024,Basic,Monthly,€22.51,25,41%,5,google ads,31,7,0
+1717,Zendesk,Marketing,USA,5/26/2024,Pro,ANNUAL,$89.09 ,25,77%,3,google ads,6,7,0
+1590,HubSpot,Healthcare,USA,23-02-2024,Pro,Annual,$182.31 ,25,83%,2,Google Ads,16,7,0
+1690,FinCorp,Healthcare,India,7/7/2024,Basic,Monthly,$181.43 ,25,35%,2,Organic,21,7,0
+1678,Notion,Healthcare,Germany,16-09-2024,Free,Monthly,€19.5,24,33%,6,Referral,23,7,0
+1793,HubSpot,FinTech,USA,12/16/2024,Basic,Annual,$95.79 ,24,76%,1,Organic,16,7,0
+1917,Salesforce,Real Estate,DE,12/12/2024,Basic,monthly,€32.23,23,71%,3,Google Ads,15,7,0
+1399,HubSpot,FinTech,UK,17-04-2024,Basic,Annual,£115.56,23,114%,3,Google Ads,30+,7,0
+1792,MarketPro,Real Estate,Canada,5/28/2024,Basic,Monthly,$8.58 ,23,58%,3,Google Ads,30+,7,0
+1700,MarketPro,Healthcare,USA,26-07-2024,Basic,Monthly,$152.21 ,23,50%,2,Google Ads,24,7,0
+1682,Salesforce,SaaS,DE,2/1/2024,Basic,Monthly,€173.83,23,88%,1,LinkedIn Ads,8,7,0
+2199,Zendesk,Healthcare,USA,12/14/2024,Free,Monthly,$28.74 ,22,23%,5,Google Ads,47,7,0
+1312,MarketPro,Marketing,Australia,12/14/2024,Free,Monthly,$1.46 ,22,39%,5,Referral,18,7,0
+1878,Salesforce,E-commerce,Germany,28-01-2024,Basic,ANNUAL,€304.0,22,65%,3,Referral,4,7,0
+1462,DataNest,FinTech,DE,9/19/2024,Basic,Monthly,€112.59,22,65%,3,Organic,11,7,0
+2092,MarketPro,Real Estate,Australia,1/23/2024,Basic,Monthly,$90.16 ,22,80%,3,Organic,12,7,0
+1353,HubSpot,E-commerce,UK,26-04-2024,Free,Monthly,£20.51,22,62%,3,Organic,13,7,0
+1036,Salesforce,Marketing,DE,11/19/2024,Basic,ANNUAL,€146.85,22,61%,3,Google Ads,31,7,0
+2124,DataNest,SaaS,Germany,2/26/2024,Pro,Monthly,€94.22,22,83%,2,google ads,6,7,0
+1100,Stripe,Real Estate,USA,4/21/2024,Basic,Monthly,$30.38 ,22,62%,2,Referral,9,7,0
+1803,Zendesk,E-commerce,USA,5/9/2024,Basic,Annual,$36.30 ,22,81%,1,Organic,16,7,0
+1481,HubSpot,Real Estate,United Kingdom,5/23/2024,Basic,monthly,£140.96,21,92%,5,Organic,4,7,0
+1043,Zendesk,E-commerce,Australia,1/3/2024,Basic,monthly,$90.89 ,21,61%,1,Organic,4,7,0
+2150,Salesforce,SaaS,DE,9/4/2024,Basic,monthly,€28.18,20,34%,3,google ads,13,7,0
+1478,MarketPro,E-commerce,Canada,9/12/2024,Basic,monthly,$87.45 ,19,54%,6,Google Ads,17,7,0
+1856,HubSpot,Marketing,United Kingdom,4/3/2024,Free,Monthly,£22.32,19,44%,5,Referral,20,7,0
+1460,Notion,SaaS,USA,10/8/2024,Basic,Monthly,$84.64 ,19,28%,3,Google Ads,10,7,0
+1585,Zendesk,Healthcare,Australia,7/9/2024,Free,Monthly,$10.33 ,19,72%,3,Organic,22,7,0
+1730,DataNest,E-commerce,UK,1/20/2024,Pro,Annual,£521.63,19,140%,1,google ads,10,7,0
+1029,MarketPro,Healthcare,Canada,7/6/2024,Free,monthly,$1.43 ,18,28%,6,Organic,11,7,0
+1437,FinCorp,Marketing,India,3/19/2024,Basic,Annual,$163.98 ,18,71%,5,Organic,10,7,0
+1125,MarketPro,E-commerce,Canada,9/2/2024,Basic,Monthly,$123.18 ,18,93%,4,Organic,11,7,0
+1434,MarketPro,Real Estate,Canada,10/8/2024,Free,Monthly,$37.40 ,18,37%,3,Organic,21,7,0
+1296,Notion,Real Estate,USA,11/14/2024,Pro,monthly,$186.71 ,18,82%,1,google ads,4,7,0
+1372,FinCorp,SaaS,India,7/6/2024,Free,Monthly,$18.64 ,18,4%,1,google ads,46,7,0
+1597,Cloudify,Healthcare,USA,7/9/2024,Pro,monthly,$115.07 ,18,84%,0,Organic,8,7,0
+1077,MarketPro,E-commerce,USA,4/21/2024,Free,Monthly,$19.26 ,17,57%,5,Organic,29,7,0
+1209,Stripe,Education,U.S.A.,20-08-2024,Free,Monthly,$8.06 ,17,61%,5,Organic,32,7,0
+1448,Zendesk,SaaS,USA,1/2/2024,Basic,Monthly,$91.61 ,17,41%,6,Google Ads,21,7,0
+1980,HubSpot,SaaS,UK,7/12/2024,Basic,ANNUAL,£92.17,17,56%,5,Google Ads,30+,7,0
+1141,Cloudify,E-commerce,India,11/24/2024,Free,Monthly,$8.87 ,17,38%,4,google ads,26,7,0
+1551,Cloudify,Marketing,USA,6/10/2024,Basic,monthly,$41.73 ,17,32%,3,LinkedIn Ads,16,7,0
+2005,Zendesk,Marketing,USA,17-02-2024,Free,Monthly,$26.43 ,16,29%,9,Organic,30,7,0
+1546,MarketPro,SaaS,USA,9/26/2024,Free,Monthly,$7.84 ,16,48%,6,Organic,13,7,0
+1988,Stripe,Healthcare,U.S.A.,9/3/2024,Free,Monthly,$4.33 ,16,63%,3,Organic,14,7,0
+1681,Cloudify,Education,UK,23-10-2024,Free,Monthly,£42.47,16,18%,3,google ads,12,7,0
+2024,Zendesk,Education,Australia,11/21/2024,Free,Monthly,$17.33 ,16,36%,1,Referral,23,7,0
+1101,Salesforce,Marketing,USA,8/23/2024,Free,monthly,$32.36 ,15,32%,9,Google Ads,34,7,0
+1712,Salesforce,Marketing,DE,15-11-2024,Free,monthly,€37.08,15,55%,5,Organic,10,7,0
+1547,Zendesk,Education,USA,7/14/2024,Basic,Monthly,$117.16 ,15,48%,4,google ads,11,7,0
+1231,DataNest,Real Estate,Germany,11/28/2024,Basic,Annual,€159.57,15,64%,3,Referral,5,7,0
+1441,Notion,SaaS,U.K.,19-02-2024,Free,Monthly,£10.48,15,51%,3,Organic,13,7,0
+2069,HubSpot,FinTech,UK,9/11/2024,Basic,Annual,£4552.23,15,54%,3,Google Ads,13,7,0
+1146,HubSpot,SaaS,UK,2/27/2024,Basic,ANNUAL,£33.22,15,56%,2,Google Ads,29,7,0
+1307,MarketPro,Education,USA,4/28/2024,Free,Monthly,$6.26 ,15,65%,0,Organic,17,7,0
+1973,Salesforce,FinTech,USA,20-11-2024,Basic,Annual,$93.52 ,14,37%,9,Google Ads,30+,7,0
+1957,HubSpot,FinTech,USA,9/22/2024,Free,Monthly,$9.64 ,14,40%,3,Organic,13,7,0
+1872,Notion,Education,UK,2/3/2024,Basic,Monthly,£75.91,14,57%,5,Google Ads,32,7,0
+1229,MarketPro,Marketing,Canada,2/9/2024,Free,monthly,$7.31 ,14,34%,5,Organic,16,7,0
+1494,MarketPro,Real Estate,USA,11/13/2024,Basic,Monthly,$65.44 ,14,60%,4,Referral,10,7,0
+1778,Notion,FinTech,Germany,15-03-2024,Free,monthly,€14.83,14,56%,3,Referral,21,7,0
+1904,Zendesk,SaaS,Australia,12/2/2024,Free,monthly,$37.36 ,14,44%,2,Organic,15,7,0
+1728,DataNest,Healthcare,DE,3/7/2024,Free,monthly,€12.58,14,54%,2,Organic,20,7,0
+2093,MarketPro,E-commerce,Australia,7/21/2024,Pro,Monthly,$362.96 ,13,75%,5,google ads,11,7,0
+1550,HubSpot,FinTech,United Kingdom,3/6/2024,Free,Monthly,£11.45,13,58%,5,Organic,1,7,0
+1184,FinCorp,E-commerce,Australia,3/8/2024,Basic,monthly,$56.68 ,13,42%,3,Organic,13,7,0
+1238,Notion,E-commerce,UK,4/12/2024,Basic,Annual,£1095.16,13,61%,2,Direct,16,7,0
+1024,Salesforce,FinTech,USA,2/4/2024,Pro,ANNUAL,$211.77 ,13,68%,1,Google Ads,3,7,0
+1557,FinCorp,Healthcare,DE,20-04-2024,Free,Monthly,€4.5,13,14%,0,Google Ads,30+,7,0
+1635,MarketPro,Real Estate,Canada,7/7/2024,Basic,Annual,$199.73 ,12,69%,1,Organic,30+,7,0
+1967,Notion,SaaS,UK,7/20/2024,Basic,Annual,£54.17,12,89%,0,Referral,12,7,0
+1918,Notion,Real Estate,UK,14-04-2024,Free,Monthly,£1.5,11,65%,8,Organic,13,7,0
+1308,Notion,Healthcare,Germany,7/8/2024,Free,monthly,€10.59,11,54%,4,Referral,23,7,0
+1611,Cloudify,FinTech,India,10/2/2024,Pro,Annual,$115.28 ,11,68%,4,google ads,28,7,0
+1963,Stripe,E-commerce,U.S.A.,12/12/2024,Free,monthly,$14.23 ,11,59%,2,Organic,16,7,0
+1286,FinCorp,Marketing,U.S.A.,9/7/2024,Pro,Annual,$61.00 ,11,69%,1,Organic,10,7,0
+2078,DataNest,E-commerce,UK,8/9/2024,Basic,Annual,£186.81,10,67%,2,Organic,7,7,0
+1531,Salesforce,E-commerce,USA,21-05-2024,Basic,monthly,$163.76 ,10,51%,2,google ads,31,7,0
+1698,Cloudify,E-commerce,India,11/9/2024,Free,monthly,$39.34 ,10,3%,2,Google Ads,43,7,0
+2004,Notion,E-commerce,Germany,22-05-2024,Pro,Annual,€236.24,10,56%,1,Google Ads,17,7,0
+2067,Stripe,Real Estate,America,4/8/2024,Basic,Monthly,$55.26 ,10,74%,0,Organic,7,7,0
+1916,Stripe,SaaS,U.S.A.,4/10/2024,Basic,Annual,$204.74 ,9,81%,1,Organic,6,7,0
+1165,Notion,Real Estate,U.K.,4/5/2024,Basic,Monthly,£8.84,8,52%,3,Google Ads,33,7,0
+2125,MarketPro,Real Estate,Canada,17-06-2024,Basic,Monthly,$104.74 ,8,87%,2,Organic,5,7,0
+2135,HubSpot,SaaS,United Kingdom,1/5/2024,Basic,Annual,£69.22,8,36%,2,Google Ads,16,7,0
+1962,FinCorp,SaaS,DE,6/27/2024,Basic,Monthly,€146.47,8,29%,0,Organic,18,7,0
+1786,Stripe,SaaS,U.S.A.,7/20/2024,Free,Monthly,$11.39 ,7,62%,5,Referral,33,7,0
+1064,Cloudify,Healthcare,India,12/17/2024,Enterprise,Monthly,"$1,149.91 ",7,88%,2,Google Ads,4,7,0
+1928,Stripe,SaaS,USA,1/27/2024,Basic,Monthly,$99.72 ,7,86%,2,Referral,9,7,0
+2080,MarketPro,FinTech,Australia,5/3/2024,Basic,Annual,$36.87 ,6,68%,3,Google Ads,30+,7,0
+1084,FinCorp,Real Estate,Australia,3/24/2024,Basic,Monthly,$49.67 ,5,48%,6,Organic,31,7,0
+1473,Notion,Education,UK,8/25/2024,Pro,Monthly,£386.06,5,66%,4,Google Ads,12,7,0
+1063,Cloudify,Education,USA,4/5/2024,Pro,monthly,$316.84 ,5,52%,4,google ads,33,7,0
+2116,Notion,E-commerce,UK,8/7/2024,Free,Monthly,£19.68,5,38%,4,google ads,42,7,0
+1710,Salesforce,Marketing,DE,12/5/2024,Pro,Annual,€335.77,5,88%,3,google ads,4,7,0
+1797,MarketPro,Education,Canada,12/1/2024,Basic,Annual,$228.61 ,5,57%,1,Organic,5,7,0
+2129,Zendesk,Healthcare,USA,6/8/2024,Basic,monthly,$153.91 ,5,70%,0,Organic,13,7,0
+2144,FinCorp,Education,India,2/22/2024,Basic,ANNUAL,$176.28 ,4,73%,3,LinkedIn Ads,31,7,0
+1578,DataNest,FinTech,UK,3/21/2024,Basic,Monthly,£138.86,4,55%,1,Referral,11,7,0
+2188,Zendesk,Marketing,Australia,3/6/2024,Basic,Monthly,$133.96 ,4,67%,1,Google Ads,30+,7,0
+1975,HubSpot,E-commerce,USA,4/1/2024,Basic,ANNUAL,$93.72 ,3,73%,4,Referral,8,7,0
+1908,Notion,FinTech,UK,10/12/2024,Free,Monthly,£1.21,3,40%,4,Organic,18,7,0
+1493,DataNest,Real Estate,Germany,11/19/2024,Free,Monthly,€4.6,3,59%,2,LinkedIn Ads,25,7,0
+2137,HubSpot,Healthcare,UK,8/8/2024,Basic,monthly,£24.28,3,94%,1,Organic,13,7,0
+1298,Cloudify,Healthcare,USA,25-01-2024,Pro,monthly,$421.02 ,3,93%,1,Organic,16,7,0
+2110,Stripe,Marketing,U.S.A.,9/28/2024,Pro,Annual,$150.90 ,3,92%,0,Google Ads,9,7,0
+1929,Cloudify,SaaS,UK,6/5/2024,Pro,Annual,£316.97,2,57%,3,Direct,7,7,0
+1147,FinCorp,Education,UK,28-06-2024,Free,monthly,£11.16,2,43%,3,Organic,22,7,0
+1945,Notion,E-commerce,U.K.,2/19/2024,Basic,Annual,£28.2,10+,65%,7,Organic,12,6,0
+1236,Notion,E-commerce,UK,15-08-2024,Basic,Monthly,£99.6,10+,60%,6,Google Ads,20,6,0
+2117,Salesforce,E-commerce,USA,3/11/2024,Basic,Monthly,$123.90 ,10+,48%,4,google ads,10,6,0
+1450,Salesforce,Education,USA,28-01-2024,Basic,ANNUAL,$89.53 ,10+,65%,4,Google Ads,34,6,0
+1544,Stripe,E-commerce,U.S.A.,3/10/2024,Pro,monthly,$103.11 ,10+,90%,4,Google Ads,30+,6,0
+1584,HubSpot,SaaS,United Kingdom,8/12/2024,Basic,ANNUAL,£44.17,10+,73%,3,Referral,3,6,0
+1966,Zendesk,Real Estate,USA,24-07-2024,Basic,monthly,$95.88 ,10+,76%,3,Organic,16,6,0
+1936,Zendesk,FinTech,Australia,6/12/2024,Free,monthly,$2.13 ,10+,43%,3,Organic,18,6,0
+1371,DataNest,E-commerce,DE,4/7/2024,Free,Monthly,€1.85,10+,47%,3,Organic,29,6,0
+1638,HubSpot,Healthcare,USA,2/15/2024,Basic,Annual,$150.70 ,10+,86%,2,Organic,7,6,0
+2072,Notion,Healthcare,U.K.,7/11/2024,Basic,Annual,£106.05,10+,81%,2,LinkedIn Ads,9,6,0
+2084,HubSpot,Marketing,UK,9/3/2024,Basic,ANNUAL,£157.33,10+,70%,2,Organic,9,6,0
+1387,Notion,SaaS,Germany,7/3/2024,Basic,Annual,€238.09,10+,47%,2,Google Ads,24,6,0
+1212,FinCorp,Marketing,U.S.A.,26-09-2024,Pro,Monthly,$353.70 ,10+,44%,2,Google Ads,26,6,0
+1798,FinCorp,Marketing,U.S.A.,12/24/2024,Pro,Monthly,$275.01 ,10+,50%,2,google ads,26,6,0
+1759,Stripe,Marketing,America,12/22/2024,Basic,monthly,$110.49 ,13,58%,5,Organic,5,6,1
+1294,Salesforce,Real Estate,USA,15-11-2024,Basic,monthly,$45.87 ,2,74%,5,Organic,22,6,1
+1091,Zendesk,Education,Australia,12/7/2024,Pro,Monthly,$110.52 ,10+,58%,1,Google Ads,3,6,0
+2006,Notion,SaaS,Germany,6/9/2024,Free,monthly,€13.01,16,30%,5,Organic,13,6,1
+1583,Salesforce,SaaS,DE,3/25/2024,Free,Monthly,€8.84,10,27%,7,Organic,55,6,1
+1528,Stripe,Real Estate,USA,10/20/2024,Basic,Annual,$73.47 ,2,55%,0,Referral,34,6,1
+1414,Stripe,FinTech,America,11/13/2024,Free,Monthly,$7.39 ,17,27%,5,Organic,34,6,1
+1849,Stripe,Healthcare,U.S.A.,2/8/2024,Free,monthly,$1.95 ,14,46%,4,Organic,66,6,1
+1849,Stripe,Healthcare,U.S.A.,2/8/2024,Free,monthly,$1.95 ,14,46%,4,Organic,66,6,1
+1121,Stripe,SaaS,America,7/22/2024,Free,Monthly,$12.45 ,8,71%,5,LinkedIn Ads,42,6,1
+2081,MarketPro,Education,Canada,11/11/2024,Basic,monthly,$204.28 ,10+,71%,1,Referral,12,6,0
+1942,FinCorp,Marketing,DE,6/10/2024,Basic,Monthly,€78.29,2,35%,5,Organic,42,6,1
+1520,Notion,Education,Germany,6/1/2024,Pro,ANNUAL,€185.19,10+,89%,1,Google Ads,17,6,0
+2020,Salesforce,FinTech,DE,9/1/2024,Basic,Monthly,€154.9,10+,89%,0,Organic,8,6,0
+1375,Stripe,Real Estate,America,4/5/2024,Basic,Annual,$149.92 ,10+,53%,0,google ads,32,6,0
+1768,Stripe,SaaS,America,5/9/2024,Free,Monthly,$7.40 ,30,44%,8,Organic,27,6,0
+1911,Notion,FinTech,USA,8/25/2024,Free,Monthly,$8.90 ,25,66%,6,Direct,34,6,1
+1838,Notion,E-commerce,UK,4/25/2024,Basic,Monthly,£105.87,4,72%,4,Google Ads,30+,6,1
+2182,HubSpot,Healthcare,USA,4/8/2024,Free,monthly,$42.23 ,30,32%,4,Organic,31,6,0
+1838,Notion,E-commerce,UK,4/25/2024,Basic,Monthly,£105.87,4,72%,6,Google Ads,30+,6,1
+1325,Salesforce,Marketing,DE,11/9/2024,Free,Monthly,€50.92,12,32%,7,Organic,34,6,1
+2097,Salesforce,Education,DE,2/8/2024,Basic,Monthly,€41.29,17,78%,4,Direct,30+,6,1
+2148,HubSpot,Education,United Kingdom,8/24/2024,Free,Monthly,£14.96,30,60%,4,Organic,30+,6,1
+1156,Notion,SaaS,Germany,8/3/2024,Free,monthly,€4.47,9,72%,5,Referral,30+,6,1
+2104,Stripe,Education,Canada,14-10-2024,Free,Monthly,$11.94 ,7,64%,5,Organic,30+,6,1
+1083,FinCorp,Marketing,U.S.A.,1/7/2024,Pro,ANNUAL,$116.56 ,30,72%,1,Referral,9,6,0
+1857,DataNest,E-commerce,DE,14-12-2024,Basic,Monthly,€101.85,30,76%,1,Referral,9,6,0
+1234,Stripe,Marketing,America,10/12/2024,Free,Monthly,$1.81 ,23,28%,6,Organic,30+,6,1
+1365,HubSpot,E-commerce,USA,8/20/2024,Free,monthly,$10.55 ,29,33%,5,google ads,25,6,0
+1482,Zendesk,Education,Australia,8/10/2024,Basic,ANNUAL,$142.55 ,29,68%,4,Organic,6,6,0
+1757,Stripe,Healthcare,U.S.A.,6/27/2024,Basic,Annual,$66.53 ,29,42%,4,Google Ads,16,6,0
+1726,Salesforce,Healthcare,DE,1/6/2024,Free,monthly,€10.41,29,60%,2,Organic,13,6,0
+2164,Stripe,Education,USA,12/10/2024,Free,Monthly,$8.91 ,29,48%,1,Organic,20,6,0
+2042,MarketPro,Real Estate,Australia,6/26/2024,Basic,ANNUAL,$480.72 ,28,52%,3,google ads,23,6,0
+1960,Zendesk,Education,Australia,19-01-2024,Free,monthly,$1.31 ,28,74%,2,Organic,13,6,0
+1098,Stripe,Healthcare,U.S.A.,3/4/2024,Free,Monthly,$197.99 ,28,36%,1,Referral,10,6,0
+1623,Stripe,Healthcare,America,13-11-2024,Basic,monthly,$97.55 ,28,77%,0,Organic,11,6,0
+1518,Stripe,FinTech,U.S.A.,7/19/2024,Basic,ANNUAL,$184.13 ,28,69%,0,Direct,15,6,0
+2165,Cloudify,Healthcare,India,6/8/2024,Basic,Annual,$23.02 ,27,7%,9,google ads,22,6,0
+2050,Cloudify,SaaS,UK,11/9/2024,Pro,Annual,£154.39,27,67%,6,Google Ads,12,6,0
+1009,MarketPro,Healthcare,Australia,11/23/2024,Basic,monthly,$200.77 ,27,71%,4,Organic,16,6,0
+2001,Cloudify,Real Estate,India,3/14/2024,Enterprise,Annual,"$1,087.04 ",27,78%,3,Google Ads,10,6,0
+2063,Cloudify,Healthcare,USA,11/15/2024,Basic,monthly,$9.63 ,27,73%,3,Organic,11,6,0
+2175,MarketPro,SaaS,Australia,1/8/2024,Basic,Monthly,$76.11 ,27,65%,3,google ads,33,6,0
+1023,Notion,Healthcare,UK,9/8/2024,Basic,ANNUAL,£112.44,27,45%,1,Google Ads,11,6,0
+1874,Stripe,Education,America,5/8/2024,Basic,monthly,$111.86 ,27,92%,0,Organic,6,6,0
+1608,HubSpot,FinTech,United Kingdom,12/8/2024,Basic,monthly,£95.97,26,52%,6,Google Ads,11,6,0
+1509,Notion,FinTech,U.K.,7/10/2024,Basic,Monthly,£112.4,26,34%,5,Google Ads,18,6,0
+1142,Zendesk,Real Estate,Australia,11/12/2024,Free,monthly,$2.92 ,26,60%,4,LinkedIn Ads,30,6,0
+2171,Notion,Education,UK,2/23/2024,Free,Monthly,£0.97,26,8%,4,Google Ads,34,6,0
+2189,Salesforce,Healthcare,USA,28-09-2024,Free,Monthly,$16.49 ,26,55%,3,Organic,18,6,0
+1131,Stripe,E-commerce,Canada,8/12/2024,Pro,Annual,$23.54 ,25,91%,5,Google Ads,17,6,0
+2161,HubSpot,Real Estate,USA,5/4/2024,Basic,monthly,$126.07 ,25,57%,4,Google Ads,12,6,0
+1336,FinCorp,FinTech,Germany,5/14/2024,Basic,Annual,€85.11,25,44%,3,Organic,30+,6,0
+1119,DataNest,Education,Germany,9/25/2024,Basic,monthly,€83.77,25,75%,2,Organic,7,6,0
+1676,MarketPro,Education,USA,5/27/2024,Basic,Monthly,$37.53 ,25,71%,2,google ads,21,6,0
+1766,Salesforce,FinTech,DE,23-09-2024,Free,Monthly,€14.97,25,43%,2,Organic,31,6,0
+1880,HubSpot,Healthcare,USA,11/10/2024,Basic,monthly,$217.57 ,24,49%,6,Google Ads,2,6,0
+1373,Stripe,Marketing,America,18-03-2024,Basic,Monthly,$40.54 ,24,83%,5,Referral,8,6,0
+1393,Zendesk,Real Estate,USA,11/10/2024,Free,monthly,$0.09 ,24,56%,4,Organic,10,6,0
+1040,FinCorp,Healthcare,U.K.,5/20/2024,Pro,Annual,£87.17,24,89%,2,Organic,6,6,0
+1775,HubSpot,Real Estate,USA,5/22/2024,Basic,Annual,$272.96 ,24,73%,1,Organic,9,6,0
+1530,DataNest,SaaS,UK,2/25/2024,Pro,Annual,£338.79,23,81%,1,Google Ads,9,6,0
+1175,DataNest,Education,UK,12/8/2024,Free,Monthly,£2.28,23,66%,1,Organic,18,6,0
+1389,HubSpot,Marketing,USA,20-11-2024,Basic,Annual,$94.04 ,22,91%,5,Organic,4,6,0
+1807,HubSpot,Real Estate,UK,11/15/2024,Pro,Monthly,£83.91,22,57%,4,Google Ads,9,6,0
+1276,MarketPro,Education,Australia,3/28/2024,Free,monthly,$14.80 ,22,31%,3,Organic,19,6,0
+1673,Salesforce,SaaS,USA,24-03-2024,Free,Monthly,$8.23 ,22,122%,3,Organic,30,6,0
+1742,Notion,Healthcare,UK,25-05-2024,Basic,monthly,£62.46,22,52%,3,Google Ads,30+,6,0
+2103,Stripe,Real Estate,America,7/8/2024,Free,Monthly,$2.52 ,22,50%,2,Organic,25,6,0
+1452,Notion,Marketing,U.K.,10/16/2024,Free,Monthly,£11.33,22,39%,2,google ads,33,6,0
+1937,Stripe,Education,America,2/14/2024,Basic,Monthly,$43.11 ,22,52%,1,Google Ads,20,6,0
+1106,MarketPro,Education,Canada,12/11/2024,Free,Monthly,$0.34 ,21,60%,1,Referral,21,6,0
+1461,Stripe,Real Estate,Canada,9/14/2024,Basic,Monthly,$86.81 ,21,64%,6,Referral,7,6,0
+1263,Stripe,Marketing,U.S.A.,11/11/2024,Basic,monthly,$70.40 ,21,31%,5,Google Ads,18,6,0
+1982,Stripe,E-commerce,USA,13-05-2024,Free,Monthly,$7.56 ,21,42%,4,google ads,22,6,0
+1161,HubSpot,Education,United Kingdom,2/3/2024,Pro,ANNUAL,£470.26,20,85%,3,google ads,16,6,0
+1720,HubSpot,E-commerce,UK,3/7/2024,Free,Monthly,£10.28,20,36%,3,Organic,17,6,0
+1187,Cloudify,Marketing,USA,8/26/2024,Basic,Monthly,$168.43 ,20,69%,3,Organic,28,6,0
+2033,Notion,SaaS,UK,6/11/2024,Free,Monthly,£35.81,20,65%,2,Organic,13,6,0
+1832,Stripe,E-commerce,USA,1/11/2024,Basic,Annual,$446.12 ,20,90%,0,Organic,17,6,0
+2018,Cloudify,Real Estate,USA,19-10-2024,Free,Monthly,$35.36 ,19,38%,5,google ads,22,6,0
+1291,Notion,FinTech,USA,8/2/2024,Pro,Monthly,$175.48 ,19,107%,4,Google Ads,9,6,0
+1721,HubSpot,Marketing,United Kingdom,5/23/2024,Free,Monthly,£47.1,19,71%,4,Organic,18,6,0
+1267,Zendesk,FinTech,Australia,18-07-2024,Basic,monthly,$408.28 ,19,57%,4,Google Ads,28,6,0
+2037,Cloudify,Education,USA,9/26/2024,Free,Monthly,$4.02 ,19,19%,3,Google Ads,46,6,0
+1913,Stripe,Real Estate,USA,4/6/2024,Free,Monthly,$7.66 ,19,31%,3,Google Ads,22,6,0
+1571,MarketPro,Healthcare,USA,3/8/2024,Basic,Monthly,$67.20 ,19,82%,2,Organic,3,6,0
+1477,Notion,Healthcare,USA,20-08-2024,Free,monthly,$1.17 ,19,37%,2,Referral,29,6,0
+1152,Stripe,FinTech,U.S.A.,6/26/2024,Basic,Monthly,$243.63 ,19,59%,2,google ads,30+,6,0
+1514,Zendesk,Real Estate,Australia,11/11/2024,Basic,Monthly,$16.67 ,18,54%,3,Google Ads,12,6,0
+1643,FinCorp,SaaS,Germany,13-02-2024,Basic,Annual,€95.2,18,58%,3,LinkedIn Ads,32,6,0
+1749,HubSpot,SaaS,USA,9/7/2024,Free,Monthly,$17.65 ,17,54%,4,Referral,32,6,0
+1687,FinCorp,Education,Australia,12/22/2024,Pro,ANNUAL,$716.83 ,17,51%,2,Google Ads,16,6,0
+1601,DataNest,E-commerce,DE,24-12-2024,Free,Monthly,€2.8,16,65%,6,Referral,30+,6,0
+2096,DataNest,FinTech,DE,7/7/2024,Basic,monthly,€32.38,16,93%,1,LinkedIn Ads,12,6,0
+2183,Notion,SaaS,Germany,6/12/2024,Free,monthly,€2.96,16,34%,0,Organic,15,6,0
+1101,Salesforce,Marketing,USA,8/23/2024,Free,monthly,$32.36 ,15,32%,9,Google Ads,34,6,0
+1674,DataNest,E-commerce,UK,10/6/2024,Free,monthly,£30.78,15,66%,2,LinkedIn Ads,20,6,0
+1213,DataNest,SaaS,Germany,7/12/2024,Pro,Monthly,€105.66,15,71%,1,google ads,10,6,0
+1672,HubSpot,Healthcare,UK,26-11-2024,Basic,Monthly,£46.06,15,50%,1,Google Ads,2,6,0
+1701,Notion,Marketing,Germany,18-07-2024,Free,Monthly,€35.86,14,11%,4,google ads,33,6,0
+1861,Salesforce,E-commerce,USA,1/16/2024,Free,Monthly,$14.51 ,14,69%,4,Organic,30+,6,0
+1909,MarketPro,Healthcare,Canada,12/10/2024,Free,monthly,$4.54 ,14,48%,3,Referral,16,6,0
+1560,Notion,Healthcare,USA,2/7/2024,Free,Monthly,$13.91 ,14,27%,3,Organic,20,6,0
+1458,MarketPro,Healthcare,Canada,12/3/2024,Free,Monthly,$23.95 ,14,47%,3,Organic,30+,6,0
+1789,Stripe,Marketing,America,23-09-2024,Basic,monthly,$24.29 ,14,94%,2,Organic,11,6,0
+1570,Notion,Healthcare,U.K.,4/14/2024,Basic,Monthly,£96.19,14,61%,2,Google Ads,19,6,0
+1444,Zendesk,Healthcare,USA,7/28/2024,Pro,monthly,"$4,717.52 ",14,86%,0,Google Ads,16,6,0
+1709,Notion,Education,U.K.,8/1/2024,Free,Monthly,£0.75,13,52%,6,Organic,27,6,0
+1293,MarketPro,SaaS,USA,6/4/2024,Pro,Annual,$165.66 ,13,72%,1,Google Ads,13,6,0
+1765,MarketPro,Real Estate,Canada,6/5/2024,Free,monthly,$0.99 ,13,26%,0,Organic,28,6,0
+1765,MarketPro,Real Estate,Canada,6/5/2024,Free,monthly,$0.99 ,13,26%,0,Organic,28,6,0
+1686,Salesforce,SaaS,DE,3/18/2024,Basic,monthly,€189.93,12,63%,6,google ads,27,6,0
+1467,Notion,Healthcare,Germany,2/4/2024,Free,Monthly,€1.4,12,57%,3,Organic,17,6,0
+1959,Cloudify,SaaS,UK,4/14/2024,Free,Monthly,£42.05,12,27%,2,Organic,26,6,0
+1692,MarketPro,E-commerce,USA,6/1/2024,Free,Monthly,$8.87 ,11,33%,6,Google Ads,26,6,0
+1684,Stripe,Marketing,America,2/7/2024,Free,Monthly,$19.99 ,11,61%,5,Organic,34,6,0
+1538,Salesforce,Education,Germany,3/14/2024,Free,Monthly,€2.71,11,42%,1,Organic,30,6,0
+1479,Stripe,FinTech,Canada,3/28/2024,Free,Monthly,$13.07 ,10,33%,6,Organic,30,6,0
+1780,Notion,Marketing,U.K.,8/13/2024,Free,Monthly,£39.85,10,55%,6,Organic,30,6,0
+2013,HubSpot,Healthcare,USA,2/27/2024,Free,Monthly,$22.76 ,10,18%,4,Google Ads,30+,6,0
+1839,Notion,Healthcare,U.K.,23-06-2024,Basic,Monthly,£14.47,10,77%,2,Organic,7,6,0
+2152,Stripe,E-commerce,USA,12/12/2024,Pro,Annual,$193.92 ,10,77%,1,Google Ads,15,6,0
+2048,DataNest,Healthcare,DE,11/22/2024,Basic,Monthly,€50.32,9,67%,4,Google Ads,21,6,0
+1118,Zendesk,E-commerce,Australia,27-01-2024,Pro,Annual,$351.11 ,9,72%,3,google ads,4,6,0
+1915,HubSpot,Real Estate,United Kingdom,12/20/2024,Free,Monthly,£11.51,9,26%,3,Referral,32,6,0
+2130,Stripe,Marketing,Canada,14-08-2024,Free,monthly,$27.20 ,8,62%,3,Organic,18,6,0
+1272,Cloudify,Education,UK,6/10/2024,Pro,Annual,£176.76,8,50%,2,google ads,28,6,0
+2196,Notion,Education,UK,12/10/2024,Basic,ANNUAL,£16.12,8,85%,1,LinkedIn Ads,13,6,0
+1986,Zendesk,Marketing,Australia,3/11/2024,Free,Monthly,$2.50 ,6,5%,8,google ads,36,6,0
+1407,MarketPro,FinTech,USA,1/8/2024,Free,Monthly,$5.65 ,6,47%,5,Referral,19,6,0
+2106,Notion,Marketing,UK,17-05-2024,Free,Monthly,£2.71,6,52%,4,Referral,15,6,0
+1093,Notion,Healthcare,UK,12/19/2024,Basic,Monthly,£57.63,6,68%,2,google ads,27,6,0
+2059,Cloudify,E-commerce,India,5/7/2024,Basic,monthly,$84.74 ,5,59%,5,Organic,30+,6,0
+1891,DataNest,Education,UK,6/12/2024,Basic,Monthly,£133.87,5,52%,4,google ads,20,6,0
+1870,Zendesk,FinTech,USA,6/12/2024,Basic,Monthly,$185.59 ,5,36%,3,google ads,22,6,0
+2105,Stripe,Marketing,Canada,2/1/2024,Basic,Monthly,$192.34 ,5,90%,1,Organic,13,6,0
+1761,MarketPro,Marketing,USA,6/10/2024,Basic,Annual,$270.48 ,5,54%,1,Google Ads,18,6,0
+1015,Cloudify,Education,UK,9/9/2024,Pro,monthly,£385.13,5,43%,1,Google Ads,4,6,0
+1174,Salesforce,Healthcare,Germany,3/25/2024,Basic,monthly,€61.65,5,39%,1,google ads,11,6,0
+2021,Zendesk,Education,Australia,6/15/2024,Free,Monthly,$12.52 ,4,62%,1,Organic,18,6,0
+1941,Cloudify,Marketing,USA,2/26/2024,Basic,monthly,$106.99 ,4,41%,4,Google Ads,23,6,0
+1111,Stripe,FinTech,Canada,7/28/2024,Basic,Annual,$164.57 ,4,82%,0,Organic,17,6,0
+2008,Stripe,Education,USA,12/15/2024,Free,Monthly,$49.58 ,3,33%,5,Referral,16,6,0
+2141,Cloudify,SaaS,USA,25-12-2024,Pro,Annual,$248.16 ,3,43%,5,google ads,30,6,0
+2180,Salesforce,SaaS,DE,12/8/2024,Basic,monthly,€39.71,3,62%,4,Google Ads,13,6,0
+1332,Zendesk,SaaS,USA,7/23/2024,Basic,Monthly,$30.40 ,3,85%,3,Organic,15,6,0
+1725,Salesforce,Healthcare,USA,10/9/2024,Basic,Monthly,$144.20 ,3,141%,2,Organic,9,6,0
+1529,DataNest,E-commerce,DE,6/18/2024,Basic,Monthly,€41.65,3,33%,1,Google Ads,16,6,0
+1926,Zendesk,E-commerce,Australia,20-07-2024,Basic,monthly,$54.31 ,2,74%,4,Google Ads,13,6,0
+2128,Salesforce,Healthcare,Germany,13-10-2024,Pro,monthly,€164.74,2,84%,2,Google Ads,13,6,0
+1830,DataNest,Healthcare,UK,3/2/2024,Pro,Annual,£105.94,2,90%,2,google ads,16,6,0
+1210,MarketPro,SaaS,USA,8/12/2024,Basic,Annual,$176.79 ,1,87%,1,Organic,15,6,0
+1303,MarketPro,Healthcare,Canada,28-12-2024,Free,Monthly,$7.19 ,10+,72%,9,LinkedIn Ads,30+,5,0
+1337,MarketPro,SaaS,USA,5/5/2024,Free,Monthly,$27.27 ,10+,50%,4,Organic,16,5,0
+1729,Zendesk,Healthcare,Australia,7/4/2024,Free,Monthly,$0.95 ,2,29%,4,Organic,20,5,1
+1989,Notion,FinTech,Germany,23-09-2024,Basic,Monthly,€73.69,10+,35%,4,Google Ads,28,5,0
+2023,MarketPro,Marketing,USA,11/11/2024,Free,Monthly,$1.86 ,10+,72%,6,Organic,37,5,1
+1750,Salesforce,FinTech,DE,24-11-2024,Basic,Annual,€45.89,7,26%,8,google ads,37,5,1
+1328,FinCorp,Real Estate,Germany,12/3/2024,Pro,monthly,€62.0,25,28%,5,Google Ads,22,5,1
+1639,FinCorp,E-commerce,U.K.,18-05-2024,Basic,Annual,£107.82,10+,54%,4,Organic,29,5,0
+1499,Stripe,SaaS,U.S.A.,4/1/2024,Free,monthly,$12.20 ,9,59%,6,Organic,22,5,1
+1059,FinCorp,Education,DE,8/26/2024,Basic,Monthly,€88.2,3,28%,1,Referral,23,5,0
+1497,DataNest,Healthcare,DE,3/19/2024,Free,Monthly,€6.66,21,25%,5,Organic,24,5,0
+1713,Zendesk,Real Estate,Australia,10/11/2024,Basic,Annual,$111.12 ,16,29%,5,google ads,25,5,0
+1439,Stripe,Marketing,America,5/6/2024,Basic,monthly,$254.14 ,11,37%,6,Google Ads,26,5,0
+1439,Stripe,Marketing,America,5/6/2024,Basic,monthly,$254.14 ,11,37%,6,Google Ads,26,5,0
+1968,MarketPro,E-commerce,Australia,8/23/2024,Basic,Monthly,$70.77 ,30,27%,5,google ads,27,5,0
+1770,MarketPro,FinTech,Australia,4/18/2024,Free,monthly,$19.85 ,6,40%,4,Organic,28,5,0
+1629,HubSpot,Marketing,USA,18-01-2024,Free,Monthly,$80.66 ,10,48%,7,Organic,28,5,0
+1823,Stripe,FinTech,USA,10/24/2024,Free,Monthly,$27.46 ,20,25%,7,LinkedIn Ads,28,5,1
+1167,Zendesk,Healthcare,USA,5/23/2024,Free,monthly,$210.93 ,22,45%,8,Referral,29,5,1
+1809,Stripe,Education,U.S.A.,12/25/2024,Free,Monthly,$2.92 ,10+,65%,3,Organic,16,5,0
+1208,MarketPro,Marketing,Australia,9/14/2024,Free,Monthly,$10.01 ,13,32%,5,Referral,29,5,1
+1369,MarketPro,FinTech,Australia,10/4/2024,Free,Monthly,$1.15 ,10+,72%,3,Organic,30+,5,0
+1097,HubSpot,E-commerce,USA,8/4/2024,Free,monthly,$5.88 ,10+,44%,1,Organic,11,5,0
+1704,Salesforce,E-commerce,USA,2/4/2024,Basic,Annual,$90.95 ,44,60%,8,Google Ads,12,5,0
+1675,FinCorp,SaaS,United Kingdom,8/9/2024,Basic,Monthly,£63.79,30,53%,3,Organic,11,5,0
+2071,HubSpot,Marketing,USA,1/12/2024,Basic,Monthly,$27.51 ,27,50%,4,Google Ads,10,5,1
+2090,Zendesk,Healthcare,Australia,10/22/2024,Free,monthly,$11.01 ,30,53%,5,Referral,44,5,1
+1685,Notion,SaaS,USA,4/17/2024,Free,Monthly,$6.00 ,7,57%,4,Organic,66,5,1
+1806,Salesforce,Healthcare,Germany,2/5/2024,Free,Monthly,€25.98,30,74%,4,Organic,17,5,1
+1580,Stripe,Real Estate,Canada,5/18/2024,Free,Monthly,$7.24 ,1,61%,7,Organic,42,5,1
+1259,DataNest,SaaS,DE,8/12/2024,Free,Monthly,€9.09,30,67%,1,Organic,32,5,0
+1232,MarketPro,E-commerce,Australia,12/23/2024,Free,Monthly,$14.98 ,10+,28%,8,Organic,42,5,1
+1683,DataNest,FinTech,UK,6/26/2024,Free,Monthly,£22.79,6,68%,7,Organic,19,5,1
+1498,HubSpot,Education,United Kingdom,11/14/2024,Free,Monthly,£12.03,29,64%,4,Organic,15,5,0
+1738,Notion,FinTech,USA,2/17/2024,Basic,Monthly,$107.36 ,28,30%,6,google ads,18,5,0
+1599,MarketPro,FinTech,USA,8/22/2024,Basic,Monthly,$516.12 ,28,48%,4,google ads,12,5,0
+1648,Stripe,Marketing,Canada,3/3/2024,Basic,Monthly,$69.15 ,28,72%,2,Google Ads,30+,5,0
+1885,Notion,FinTech,Germany,18-02-2024,Free,Monthly,€1.97,27,40%,6,Referral,12,5,0
+1323,Cloudify,Marketing,USA,8/2/2024,Basic,Monthly,$41.87 ,27,72%,3,Organic,30+,5,0
+1323,Cloudify,Marketing,USA,8/2/2024,Basic,Monthly,$41.87 ,27,72%,3,Organic,30+,5,0
+1403,FinCorp,Marketing,Canada,6/6/2024,Basic,Annual,$192.55 ,27,72%,2,Organic,11,5,0
+1273,Stripe,SaaS,USA,10/8/2024,Free,Monthly,$7.25 ,26,46%,3,Organic,11,5,0
+1642,DataNest,Education,Germany,10/10/2024,Basic,Monthly,€125.33,25,43%,3,Google Ads,13,5,0
+2002,Cloudify,FinTech,India,4/21/2024,Basic,monthly,$43.27 ,24,27%,1,Organic,28,5,0
+2127,Zendesk,SaaS,Australia,2/4/2024,Basic,Annual,$194.66 ,22,35%,4,Google Ads,34,5,0
+1920,Zendesk,FinTech,USA,5/15/2024,Free,Monthly,$16.39 ,22,31%,3,Organic,18,5,0
+2184,HubSpot,Healthcare,United Kingdom,19-08-2024,Free,Monthly,£0.02,21,38%,1,Organic,28,5,0
+1420,Notion,FinTech,UK,7/4/2024,Free,Monthly,£13.41,20,38%,5,Google Ads,30+,5,0
+1634,HubSpot,SaaS,United Kingdom,4/27/2024,Free,Monthly,£11.18,19,35%,4,Organic,22,5,0
+2022,Cloudify,Healthcare,India,5/24/2024,Basic,Annual,$71.90 ,19,62%,2,Organic,27,5,0
+1422,Zendesk,Healthcare,USA,3/12/2024,Free,Monthly,$4.56 ,18,55%,9,Organic,30+,5,0
+1469,DataNest,Healthcare,Germany,10/22/2024,Basic,monthly,€79.44,18,58%,5,Google Ads,15,5,0
+1922,DataNest,E-commerce,UK,22-08-2024,Free,monthly,£33.97,18,32%,4,Referral,34,5,0
+1429,Zendesk,Education,Australia,10/8/2024,Free,monthly,$15.09 ,17,35%,8,google ads,22,5,0
+1475,MarketPro,FinTech,Australia,3/7/2024,Basic,Monthly,$52.68 ,16,66%,2,Direct,21,5,0
+1500,Stripe,Healthcare,U.S.A.,2/13/2024,Free,monthly,$15.49 ,16,51%,2,Referral,30+,5,0
+1890,Zendesk,E-commerce,Australia,2/7/2024,Basic,monthly,$209.47 ,14,25%,4,Google Ads,18,5,0
+1486,Zendesk,Healthcare,USA,10/13/2024,Free,Monthly,$60.74 ,13,52%,9,Referral,20,5,0
+1021,DataNest,Healthcare,UK,7/7/2024,Free,monthly,£4.8,13,6%,9,Google Ads,4,5,0
+1412,Zendesk,Education,USA,6/19/2024,Basic,monthly,$59.21 ,13,59%,6,google ads,13,5,0
+1724,Cloudify,E-commerce,USA,8/24/2024,Basic,Annual,$38.52 ,13,5%,6,Google Ads,33,5,0
+2131,FinCorp,E-commerce,DE,1/3/2024,Basic,monthly,€225.32,13,53%,3,Organic,15,5,0
+1572,Stripe,SaaS,Canada,9/3/2024,Basic,Monthly,$96.52 ,11,30%,6,google ads,27,5,0
+1206,FinCorp,Healthcare,America,1/10/2024,Basic,ANNUAL,$191.40 ,11,49%,5,Organic,30+,5,0
+1382,DataNest,FinTech,Germany,7/7/2024,Basic,Annual,€38.63,11,33%,4,Google Ads,30+,5,0
+1006,Salesforce,FinTech,DE,1/22/2024,Free,Monthly,€15.04,11,29%,2,Organic,18,5,0
+2145,HubSpot,Real Estate,USA,12/20/2024,Basic,Monthly,$84.14 ,10,68%,5,Google Ads,16,5,0
+1039,Notion,Marketing,USA,4/17/2024,Basic,Monthly,$52.12 ,10,53%,1,Google Ads,10,5,0
+1817,Salesforce,SaaS,DE,4/2/2024,Basic,Monthly,€134.27,10,72%,1,Google Ads,12,5,0
+1338,HubSpot,Healthcare,USA,7/9/2024,Free,monthly,$12.41 ,9,57%,4,Organic,21,5,0
+1940,MarketPro,E-commerce,Canada,16-10-2024,Free,Monthly,$5.09 ,9,52%,3,Organic,28,5,0
+1867,FinCorp,SaaS,America,9/23/2024,Basic,Annual,$167.57 ,8,59%,6,Organic,20,5,0
+1433,HubSpot,E-commerce,USA,1/5/2024,Free,monthly,$0.82 ,8,70%,5,Organic,13,5,0
+1033,DataNest,Healthcare,Germany,5/7/2024,Basic,monthly,€61.43,8,69%,5,google ads,28,5,0
+1249,Cloudify,Education,UK,19-06-2024,Basic,Annual,£20.2,8,50%,4,Organic,25,5,0
+2010,Zendesk,Education,USA,9/1/2024,Basic,Monthly,$221.53 ,7,73%,0,Google Ads,30,5,0
+1050,DataNest,E-commerce,DE,1/11/2024,Free,Monthly,€18.42,6,41%,4,Organic,34,5,0
+1284,HubSpot,SaaS,UK,9/16/2024,Free,Monthly,£5.94,5,49%,3,Organic,2,5,0
+2126,HubSpot,SaaS,UK,23-08-2024,Free,Monthly,£24.21,4,67%,4,Organic,11,5,0
+1853,HubSpot,E-commerce,UK,24-04-2024,Basic,monthly,£225.56,4,67%,2,google ads,30,5,0
+1850,DataNest,Marketing,UK,6/14/2024,Basic,ANNUAL,£32.65,3,35%,5,google ads,2,5,0
+1828,Notion,Real Estate,Germany,7/3/2024,Free,Monthly,€23.87,3,60%,5,Organic,31,5,0
+1733,Stripe,Marketing,Canada,7/5/2024,Free,Monthly,$0.98 ,3,30%,3,Organic,24,5,0
+1049,Salesforce,Healthcare,Germany,12/4/2024,Free,Monthly,€18.85,2,70%,5,Direct,17,5,0
+1049,Salesforce,Healthcare,Germany,12/4/2024,Free,Monthly,€18.85,2,70%,5,Direct,17,5,0
+1113,DataNest,Healthcare,Germany,5/5/2024,Free,monthly,€635.35,2,33%,2,Organic,11,5,0
+1504,MarketPro,FinTech,USA,21-01-2024,Free,Monthly,$46.07 ,10+,71%,6,Referral,13,4,0
+1086,Notion,Education,U.K.,15-10-2024,Basic,Monthly,£81.06,10+,64%,5,google ads,34,4,0
+1311,FinCorp,FinTech,Germany,8/12/2024,Free,Monthly,€6.91,10+,42%,4,Organic,30,4,0
+1348,Cloudify,FinTech,UK,6/23/2024,Pro,monthly,£180.8,10+,63%,4,Google Ads,22,4,0
+1512,DataNest,FinTech,Germany,2/9/2024,Free,Monthly,€5.95,10+,41%,3,LinkedIn Ads,11,4,0
+1491,MarketPro,SaaS,USA,6/8/2024,Free,Monthly,$1.54 ,10+,29%,3,Referral,15,4,0
+2003,HubSpot,Marketing,UK,17-02-2024,Free,monthly,£0.86,10+,30%,3,Google Ads,22,4,0
+1533,Notion,Marketing,U.K.,4/7/2024,Free,Monthly,£13.51,10+,44%,2,Google Ads,6,4,0
+1974,Salesforce,SaaS,Germany,13-10-2024,Free,monthly,€9.7,26,48%,4,Referral,42,4,1
+1974,Salesforce,SaaS,Germany,13-10-2024,Free,monthly,€9.7,26,48%,4,Referral,42,4,1
+1343,DataNest,Real Estate,UK,4/11/2024,Free,monthly,£1.48,26,57%,4,Organic,22,4,1
+1695,Notion,Real Estate,U.K.,8/6/2024,Basic,ANNUAL,£145.11,21,52%,5,google ads,22,4,1
+1042,Notion,E-commerce,UK,6/7/2024,Free,Monthly,£7.26,14,63%,6,Organic,22,4,1
+1810,Salesforce,SaaS,Germany,16-05-2024,Free,Monthly,€10.57,29,47%,6,Organic,22,4,1
+1413,HubSpot,Education,USA,11/27/2024,Free,monthly,$25.33 ,28,52%,3,Organic,23,4,1
+1641,MarketPro,Real Estate,USA,9/16/2024,Free,Monthly,$11.78 ,19,65%,7,Organic,23,4,1
+1397,Stripe,FinTech,USA,2/1/2024,Free,monthly,$14.85 ,10,55%,5,Referral,24,4,1
+1610,Stripe,Education,U.S.A.,3/16/2024,Free,Monthly,$7.13 ,21,72%,5,Organic,25,4,1
+1513,Salesforce,E-commerce,Germany,5/15/2024,Basic,Monthly,€240.99,7,50%,6,Google Ads,25,4,1
+1841,Stripe,FinTech,Canada,12/21/2024,Free,monthly,$26.65 ,7,33%,4,Organic,27,4,1
+1495,HubSpot,E-commerce,USA,6/28/2024,Basic,Monthly,$6.49 ,16,46%,9,Google Ads,27,4,1
+1645,Zendesk,Real Estate,Australia,6/24/2024,Basic,ANNUAL,$330.71 ,1,27%,4,Google Ads,28,4,1
+1651,Zendesk,Healthcare,Australia,10/15/2024,Free,Monthly,$35.60 ,24,70%,7,Referral,28,4,1
+1755,Salesforce,E-commerce,DE,5/17/2024,Free,Monthly,€36.56,16,45%,4,Organic,29,4,1
+1844,DataNest,FinTech,UK,11/27/2024,Free,Monthly,£8.57,6,58%,4,Referral,29,4,1
+1954,Stripe,Healthcare,U.S.A.,5/22/2024,Basic,monthly,$140.83 ,5,30%,4,Google Ads,30,4,1
+1800,Notion,Marketing,U.K.,8/15/2024,Basic,monthly,£160.05,1,53%,3,google ads,31,4,1
+1154,DataNest,Real Estate,DE,6/17/2024,Free,Monthly,€0.43,12,42%,3,Organic,34,4,1
+1519,Cloudify,Marketing,USA,22-12-2024,Pro,Monthly,$413.54 ,29,41%,4,Google Ads,18,4,0
+1076,Cloudify,Real Estate,USA,8/1/2024,Basic,ANNUAL,$17.72 ,29,53%,1,Referral,32,4,0
+1418,HubSpot,E-commerce,USA,12/27/2024,Basic,Monthly,$106.15 ,28,49%,5,Google Ads,11,4,0
+1722,MarketPro,Education,USA,6/3/2024,Free,Monthly,$20.08 ,28,14%,5,google ads,41,4,0
+1062,DataNest,Real Estate,UK,10/7/2024,Free,Monthly,£2.88,28,30%,4,Organic,10,4,0
+1082,Zendesk,Real Estate,USA,9/14/2024,Free,monthly,$13.53 ,28,56%,2,Organic,30+,4,0
+1392,HubSpot,E-commerce,USA,10/20/2024,Free,Monthly,$0.58 ,22,71%,9,Organic,55,4,1
+1220,Cloudify,Healthcare,USA,8/23/2024,Basic,Annual,$42.93 ,16,25%,8,Organic,55,4,1
+1563,HubSpot,Marketing,UK,27-04-2024,Free,Monthly,£1.55,2,69%,5,Organic,42,4,1
+1003,Zendesk,Real Estate,USA,3/23/2024,Free,monthly,$1.46 ,30,58%,6,Organic,42,4,1
+1455,MarketPro,Healthcare,Canada,2/10/2024,Free,Monthly,$10.69 ,20,57%,2,Organic,42,4,1
+1386,HubSpot,Healthcare,United Kingdom,15-01-2024,Free,Monthly,£0.78,5,33%,5,Organic,37,4,1
+1200,DataNest,Marketing,Germany,4/12/2024,Basic,monthly,€9.84,21,33%,5,google ads,37,4,1
+1074,Stripe,Marketing,Canada,10/22/2024,Free,monthly,$38.30 ,26,35%,6,Organic,12,4,0
+1812,Notion,Real Estate,U.K.,21-05-2024,Basic,ANNUAL,£129.19,3,70%,4,google ads,22,4,1
+2102,Stripe,Marketing,America,11/2/2024,Free,monthly,$14.59 ,10+,27%,4,Organic,22,4,1
+1866,Stripe,FinTech,America,12/8/2024,Basic,Monthly,"$6,930.27 ",26,48%,6,google ads,13,4,0
+1508,MarketPro,Marketing,Canada,2/17/2024,Free,Monthly,$4.97 ,3,3%,7,Google Ads,22,4,1
+1545,Zendesk,Real Estate,USA,2/20/2024,Free,monthly,$0.86 ,1,25%,6,Organic,23,4,1
+1342,Salesforce,E-commerce,Germany,12/23/2024,Free,monthly,€9.23,26,8%,3,Google Ads,24,4,1
+1596,Zendesk,SaaS,USA,11/11/2024,Free,Monthly,$3.91 ,5,26%,9,Referral,24,4,1
+1421,FinCorp,Education,UK,2/6/2024,Basic,ANNUAL,£425.01,22,22%,9,google ads,25,4,1
+1801,DataNest,SaaS,UK,6/14/2024,Free,Monthly,£36.62,28,29%,6,Google Ads,25,4,1
+1078,Salesforce,Real Estate,USA,3/16/2024,Free,monthly,$7.95 ,26,39%,2,Google Ads,12,4,0
+1088,FinCorp,Marketing,U.K.,12/9/2024,Free,Monthly,£15.2,10+,3%,7,LinkedIn Ads,25,4,1
+2073,Salesforce,Marketing,DE,17-09-2024,Free,Monthly,€28.81,19,66%,8,Organic,25,4,1
+1764,MarketPro,Real Estate,USA,6/16/2024,Free,Monthly,$9.74 ,26,61%,3,Organic,26,4,1
+2174,FinCorp,Marketing,USA,10/15/2024,Free,Monthly,$24.22 ,29,28%,8,Referral,26,4,1
+2053,MarketPro,Real Estate,Australia,9/10/2024,Free,Monthly,$6.02 ,25,9%,10,google ads,26,4,1
+1217,Stripe,Healthcare,America,6/10/2024,Free,Monthly,$20.18 ,28,65%,8,Organic,27,4,1
+2190,DataNest,Education,DE,8/10/2024,Free,Monthly,€2.67,4,74%,7,Organic,27,4,1
+1745,Zendesk,FinTech,USA,3/5/2024,Free,monthly,$16.31 ,17,62%,8,Organic,27,4,1
+1760,FinCorp,FinTech,United Kingdom,6/13/2024,Free,Monthly,£3.48,19,34%,4,Google Ads,28,4,1
+1355,Notion,Real Estate,USA,6/21/2024,Basic,monthly,$147.43 ,5,63%,6,google ads,28,4,1
+1731,Cloudify,E-commerce,UK,10/18/2024,Free,Monthly,£1.16,1,31%,10,Organic,28,4,1
+1680,HubSpot,Real Estate,USA,1/7/2024,Free,Monthly,$16.14 ,28,34%,16,google ads,28,4,1
+1144,Cloudify,Healthcare,India,1/2/2024,Free,Monthly,$2.34 ,1,8%,6,LinkedIn Ads,29,4,1
+1358,DataNest,Education,UK,4/9/2024,Free,monthly,£12.4,10,35%,7,Organic,30,4,1
+2119,HubSpot,SaaS,UK,7/5/2024,Free,Monthly,£7.16,2,32%,5,Organic,30,4,1
+2027,MarketPro,FinTech,USA,3/6/2024,Basic,Monthly,$65.51 ,5,44%,7,google ads,30,4,1
+2088,Notion,Real Estate,U.K.,8/8/2024,Free,Monthly,£9.95,12,48%,8,Organic,30,4,1
+1095,MarketPro,E-commerce,USA,12/5/2024,Basic,Monthly,$149.33 ,13,69%,6,Direct,52,4,1
+1306,Stripe,Education,America,2/7/2024,Free,Monthly,$13.79 ,9,13%,5,google ads,52,4,1
+1432,FinCorp,Marketing,DE,19-09-2024,Basic,monthly,€17.61,24,57%,5,Organic,31,4,0
+1708,Stripe,Marketing,U.S.A.,1/11/2024,Free,Monthly,$3.23 ,10+,25%,4,Organic,52,4,1
+1802,Zendesk,FinTech,Australia,10/2/2024,Free,Monthly,$2.92 ,10+,44%,3,Referral,33,4,1
+2193,Cloudify,SaaS,USA,6/21/2024,Basic,monthly,$183.79 ,3,117%,4,Organic,33,4,1
+1824,Stripe,SaaS,USA,6/13/2024,Free,Monthly,$7.72 ,13,27%,5,Google Ads,36,4,1
+1349,Notion,SaaS,UK,10/2/2024,Free,Monthly,£52.3,15,4%,7,google ads,36,4,1
+1859,DataNest,Real Estate,UK,7/16/2024,Free,Monthly,£1.64,7,40%,9,google ads,36,4,1
+2064,Zendesk,Real Estate,USA,11/26/2024,Free,Monthly,$9.18 ,18,14%,11,Google Ads,37,4,1
+1186,FinCorp,FinTech,U.K.,10/20/2024,Free,Monthly,£1.78,15,3%,8,Referral,39,4,1
+1715,Salesforce,Education,DE,1/1/2024,Free,Monthly,€2.2,27,2%,3,Google Ads,40,4,1
+1948,HubSpot,SaaS,USA,12/17/2024,Free,Monthly,$11.92 ,10+,36%,4,google ads,41,4,1
+1157,HubSpot,Marketing,UK,6/13/2024,Free,Monthly,£2.24,25,37%,8,Google Ads,42,4,1
+1972,FinCorp,Healthcare,U.K.,7/13/2024,Free,Monthly,£1.1,5,18%,6,Organic,42,4,1
+2186,Cloudify,Real Estate,India,8/1/2024,Free,Monthly,$4.71 ,10+,20%,4,Google Ads,43,4,1
+1092,FinCorp,E-commerce,DE,8/2/2024,Free,Monthly,€9.27,19,2%,8,Organic,43,4,1
+1927,HubSpot,FinTech,UK,2/9/2024,Free,Monthly,£27.82,13,44%,7,Google Ads,44,4,1
+1170,FinCorp,Marketing,India,10/2/2024,Free,monthly,$31.59 ,30,38%,6,Organic,45,4,1
+1170,FinCorp,Marketing,India,10/2/2024,Free,monthly,$31.59 ,30,38%,6,Organic,45,4,1
+1321,FinCorp,Real Estate,U.K.,7/3/2024,Free,Monthly,£37.16,8,4%,7,Organic,45,4,1
+1999,DataNest,SaaS,DE,5/22/2024,Free,monthly,€1.84,25,19%,7,google ads,45,4,1
+1903,Salesforce,Healthcare,DE,25-03-2024,Free,monthly,€14.98,23,65%,4,Referral,23,4,0
+2132,Notion,FinTech,U.K.,5/27/2024,Free,Monthly,£15.05,1,7%,8,google ads,46,4,1
+1754,Cloudify,FinTech,USA,4/1/2024,Free,Monthly,$20.84 ,10+,21%,6,Organic,46,4,1
+1852,Notion,Marketing,Germany,14-03-2024,Free,Monthly,€9.3,23,18%,6,Google Ads,46,4,1
+1034,FinCorp,FinTech,USA,3/2/2024,Free,monthly,$10.92 ,6,30%,7,Organic,46,4,1
+1378,Zendesk,Education,Australia,12/3/2024,Free,Monthly,$31.05 ,22,40%,2,Google Ads,48,4,1
+1396,Cloudify,Education,UK,6/18/2024,Free,monthly,£6.14,10+,8%,5,google ads,49,4,1
+2062,DataNest,SaaS,DE,6/3/2024,Free,Monthly,€2.41,74,3%,7,Google Ads,50,4,1
+1950,Stripe,E-commerce,U.S.A.,8/3/2024,Free,Monthly,$7.47 ,13,6%,13,Google Ads,50,4,1
+1558,Cloudify,Education,India,24-05-2024,Free,Monthly,$36.15 ,10+,20%,5,Organic,51,4,1
+1022,Salesforce,E-commerce,DE,21-06-2024,Free,Monthly,€1.86,27,28%,4,google ads,52,4,1
+1894,HubSpot,Education,United Kingdom,25-03-2024,Free,Monthly,£3.15,9,8%,12,Google Ads,52,4,1
+1347,Notion,Marketing,Germany,9/28/2024,Free,Monthly,€7.04,22,7%,5,google ads,22,4,0
+1428,Cloudify,FinTech,USA,7/22/2024,Free,Monthly,$6.38 ,10+,43%,9,google ads,53,4,1
+1109,Cloudify,Real Estate,UK,16-06-2024,Free,Monthly,£9.99,19,21%,6,Organic,54,4,1
+2166,Stripe,Real Estate,America,4/4/2024,Free,Monthly,$0.45 ,24,30%,6,Google Ads,54,4,1
+1109,Cloudify,Real Estate,UK,16-06-2024,Free,Monthly,£9.99,19,21%,6,Organic,54,4,1
+2153,Cloudify,Real Estate,UK,8/3/2024,Free,Monthly,£50.55,1,40%,7,google ads,55,4,1
+1409,Cloudify,E-commerce,UK,6/4/2024,Free,monthly,£24.81,24,42%,6,Organic,56,4,1
+1162,FinCorp,Marketing,America,1/19/2024,Free,Monthly,$18.52 ,26,23%,8,Referral,56,4,1
+1574,Notion,Marketing,U.K.,8/11/2024,Free,monthly,£7.99,14,10%,11,google ads,58,4,1
+1657,Cloudify,Healthcare,USA,4/17/2024,Free,Monthly,$18.93 ,16,19%,13,google ads,58,4,1
+2060,MarketPro,FinTech,Canada,16-10-2024,Free,Monthly,$66.97 ,10+,15%,5,Google Ads,59,4,1
+1329,FinCorp,FinTech,USA,6/20/2024,Basic,Monthly,$126.82 ,7,3%,6,Google Ads,59,4,1
+1977,Zendesk,Education,Australia,28-04-2024,Free,monthly,$10.00 ,2,34%,6,google ads,59,4,1
+1457,Notion,Real Estate,U.K.,5/3/2024,Basic,Monthly,£107.07,10+,26%,0,google ads,30+,4,1
+2181,DataNest,FinTech,UK,4/2/2024,Free,monthly,£24.57,22,47%,5,Organic,30+,4,1
+1016,MarketPro,Real Estate,Canada,4/5/2024,Free,monthly,$79.63 ,14,68%,6,Referral,34,4,1
+1252,Stripe,E-commerce,U.S.A.,9/15/2024,Basic,Annual,$192.99 ,21,25%,4,google ads,24,4,0
+1360,Zendesk,Marketing,Australia,10/13/2024,Free,Monthly,$8.09 ,25,39%,7,Organic,34,4,1
+1362,Notion,E-commerce,UK,3/12/2024,Basic,Monthly,£138.9,21,49%,2,Google Ads,34,4,0
+1769,FinCorp,SaaS,DE,2/9/2024,Basic,ANNUAL,€91.29,25,26%,5,Organic,34,4,1
+2012,Zendesk,SaaS,Australia,11/23/2024,Basic,Annual,$108.30 ,21,40%,5,google ads,34,4,1
+2047,FinCorp,FinTech,U.S.A.,11/4/2024,Free,Monthly,$4.03 ,10+,3%,5,LinkedIn Ads,34,4,1
+1591,FinCorp,Education,U.S.A.,10/6/2024,Basic,Monthly,$39.34 ,29,25%,7,Google Ads,30+,4,1
+2061,FinCorp,Education,Germany,3/17/2024,Free,monthly,€21.69,18,31%,8,Organic,30+,4,1
+2109,Zendesk,E-commerce,Australia,6/1/2024,Free,Monthly,$7.08 ,20,59%,8,Organic,30+,4,1
+1287,MarketPro,Healthcare,USA,6/28/2024,Free,monthly,$31.06 ,20,70%,5,Referral,27,4,0
+2177,HubSpot,Healthcare,UK,10/15/2024,Free,Monthly,£1.59,4,61%,4,Organic,30+,4,1
+1846,MarketPro,Education,USA,11/22/2024,Basic,ANNUAL,$107.56 ,20,66%,4,Google Ads,2,4,0
+2192,Zendesk,Marketing,Australia,12/16/2024,Free,monthly,$9.07 ,4,22%,4,google ads,30+,4,1
+1089,Salesforce,Education,DE,12/16/2024,Free,Monthly,€23.76,21,31%,5,Google Ads,30+,4,1
+1279,Cloudify,Marketing,USA,6/3/2024,Free,monthly,$1.74 ,12,41%,5,Google Ads,45,4,1
+1427,Notion,FinTech,U.K.,10/14/2024,Free,Monthly,£22.52,30,22%,5,google ads,45,4,1
+1430,Zendesk,Education,Australia,9/16/2024,Free,Monthly,$1.83 ,15,10%,5,Google Ads,45,4,1
+1505,MarketPro,FinTech,Australia,10/2/2024,Free,Monthly,$3.03 ,22,2%,5,Google Ads,45,4,1
+1743,DataNest,Real Estate,UK,4/19/2024,Free,monthly,£24.12,9,44%,5,google ads,30+,4,1
+1245,FinCorp,Education,United Kingdom,12/9/2024,Free,monthly,£6.05,25,20%,6,Google Ads,30+,4,1
+1324,DataNest,SaaS,DE,6/19/2024,Free,Monthly,€2.03,10+,131%,6,Google Ads,30+,4,1
+1607,MarketPro,Education,Australia,12/13/2024,Free,monthly,$9.15 ,28,9%,6,google ads,46,4,1
+1921,Zendesk,Healthcare,Australia,9/14/2024,Basic,monthly,$36.40 ,9,25%,6,Google Ads,46,4,1
+1943,Salesforce,SaaS,Germany,28-09-2024,Free,monthly,€1.97,5,11%,6,Google Ads,46,4,1
+2114,Salesforce,Education,USA,12/25/2024,Free,Monthly,$20.15 ,8,15%,6,Google Ads,46,4,1
+2079,Zendesk,E-commerce,Australia,11/7/2024,Free,monthly,$2.64 ,21,5%,9,Google Ads,30+,4,1
+2143,Cloudify,Healthcare,USA,7/3/2024,Free,Monthly,$0.07 ,12,44%,9,Organic,30+,4,1
+2172,HubSpot,FinTech,UK,7/22/2024,Free,monthly,£33.45,20,18%,9,google ads,30+,4,1
+1377,Cloudify,Education,USA,7/17/2024,Basic,Monthly,"$1,624.01 ",14,33%,12,Google Ads,30+,4,1
+1787,DataNest,Healthcare,Germany,10/10/2024,Free,Monthly,€14.6,18,52%,4,Organic,16,4,0
+1090,DataNest,Real Estate,DE,1/3/2024,Basic,Monthly,€119.82,18,51%,3,google ads,18,4,0
+1395,Salesforce,SaaS,Germany,10/3/2024,Free,monthly,€0.1,17,37%,2,Organic,13,4,0
+2077,FinCorp,Healthcare,Canada,4/18/2024,Basic,monthly,$14.78 ,16,16%,2,google ads,22,4,0
+1453,Cloudify,FinTech,India,7/23/2024,Free,Monthly,$34.47 ,15,41%,6,Google Ads,42,4,0
+2026,HubSpot,Education,United Kingdom,2/26/2024,Free,Monthly,£5.62,15,37%,8,Google Ads,31,4,0
+1216,DataNest,Education,UK,26-03-2024,Basic,Monthly,£170.9,15,40%,6,Direct,10,4,0
+1900,FinCorp,SaaS,Canada,10/1/2024,Free,Monthly,$7.24 ,15,43%,6,Referral,30+,4,0
+1488,Cloudify,SaaS,USA,4/11/2024,Basic,Monthly,$131.63 ,15,31%,5,Organic,28,4,0
+1958,MarketPro,Education,Canada,6/11/2024,Free,Monthly,$13.62 ,14,65%,8,Organic,24,4,0
+1305,FinCorp,FinTech,Australia,8/28/2024,Free,monthly,$1.83 ,14,10%,1,Referral,23,4,0
+1073,FinCorp,SaaS,Australia,3/20/2024,Basic,Monthly,$139.59 ,13,8%,5,google ads,24,4,0
+1031,HubSpot,Education,UK,28-07-2024,Basic,Monthly,£47.6,12,43%,4,google ads,15,4,0
+1275,Zendesk,FinTech,USA,20-02-2024,Free,monthly,$11.49 ,12,56%,2,Organic,30+,4,0
+1164,Zendesk,FinTech,Australia,10/17/2024,Free,Monthly,$8.50 ,11,32%,3,Organic,11,4,0
+1541,HubSpot,Marketing,United Kingdom,11/12/2024,Basic,Monthly,£83.54,10,31%,4,Google Ads,12,4,0
+2017,Salesforce,Marketing,Germany,2/21/2024,Basic,Annual,€386.44,10,56%,4,Google Ads,17,4,0
+1314,DataNest,SaaS,UK,15-03-2024,Free,Monthly,£875.5,9,36%,6,Organic,34,4,0
+1816,Salesforce,E-commerce,DE,5/7/2024,Free,Monthly,€4.15,9,66%,3,Organic,24,4,0
+1290,Zendesk,SaaS,USA,7/12/2024,Free,monthly,$28.93 ,7,37%,6,Organic,11,4,0
+1143,MarketPro,Marketing,Canada,3/11/2024,Basic,Monthly,$227.37 ,5,41%,5,Google Ads,31,4,0
+1842,Zendesk,SaaS,Australia,5/4/2024,Free,Monthly,$4.13 ,4,38%,6,Google Ads,42,4,0
+1061,Salesforce,E-commerce,DE,4/26/2024,Free,monthly,€7.86,4,60%,5,Organic,15,4,0
+1969,DataNest,Healthcare,UK,5/11/2024,Free,Monthly,£14.04,3,32%,1,Referral,22,4,0
+1060,HubSpot,FinTech,United Kingdom,5/17/2024,Free,Monthly,£0.94,3,61%,1,Organic,31,4,0
+1132,Zendesk,SaaS,Australia,28-05-2024,Free,Monthly,$13.92 ,1,72%,3,Organic,13,4,0
+1410,Stripe,Healthcare,U.S.A.,13-02-2024,Free,Monthly,$8.31 ,1,66%,2,Organic,23,4,0
+1783,Notion,FinTech,Germany,15-06-2024,Pro,ANNUAL,€294.82,30,65%,5,Google Ads,17,3,1
+1773,Cloudify,SaaS,India,12/15/2024,Basic,Annual,$41.50 ,10+,45%,4,Referral,17,3,0
+1523,Cloudify,Real Estate,India,11/6/2024,Basic,Annual,$61.35 ,10+,33%,3,Referral,20,3,0
+1300,HubSpot,Marketing,United Kingdom,1/18/2024,Basic,Annual,£166.15,28,57%,3,Google Ads,33,3,0
+1815,Stripe,FinTech,USA,17-02-2024,Free,monthly,$2.88 ,28,69%,1,Organic,34,3,0
+1814,Salesforce,E-commerce,DE,9/1/2024,Free,Monthly,€43.05,25,68%,5,Organic,26,3,0
+1676,MarketPro,Education,USA,5/27/2024,Basic,Monthly,$37.53 ,25,71%,2,google ads,21,3,0
+1350,Cloudify,Real Estate,USA,5/8/2024,Free,Monthly,$32.67 ,23,13%,2,google ads,30+,3,0
+2076,HubSpot,Marketing,UK,7/15/2024,Free,monthly,£16.81,22,39%,3,Google Ads,36,3,0
+1242,Salesforce,Education,DE,1/8/2024,Free,Monthly,€6.94,17,27%,7,LinkedIn Ads,56,3,1
+2099,Salesforce,Education,USA,4/11/2024,Free,monthly,$2.07 ,26,54%,4,Referral,34,3,1
+2046,Zendesk,Marketing,Australia,5/21/2024,Free,monthly,$4.46 ,6,56%,3,Organic,34,3,1
+1215,HubSpot,E-commerce,USA,3/27/2024,Free,Monthly,$2.36 ,1,30%,8,Organic,55,3,1
+1677,MarketPro,SaaS,Canada,20-06-2024,Free,Monthly,$6.66 ,29,28%,3,Organic,42,3,1
+1136,Zendesk,SaaS,USA,21-01-2024,Free,Monthly,$14.77 ,22,71%,5,Organic,42,3,1
+1014,Notion,SaaS,UK,22-07-2024,Free,Monthly,£10.27,5,25%,6,Referral,37,3,1
+1067,Salesforce,E-commerce,DE,9/16/2024,Free,Monthly,€36.12,3,14%,3,Google Ads,37,3,1
+2101,Stripe,E-commerce,Canada,26-03-2024,Basic,ANNUAL,$47.48 ,30,71%,4,Google Ads,37,3,1
+1524,DataNest,Real Estate,DE,25-08-2024,Free,monthly,€11.87,1,68%,7,Organic,37,3,1
+1117,DataNest,Healthcare,UK,7/7/2024,Basic,monthly,£200.67,15,51%,7,google ads,37,3,1
+1689,FinCorp,E-commerce,Canada,7/27/2024,Pro,Monthly,$282.36 ,25,27%,5,google ads,37,3,1
+1228,Cloudify,SaaS,USA,4/1/2024,Free,Monthly,$4.42 ,30,18%,8,Google Ads,37,3,1
+1650,MarketPro,FinTech,USA,8/15/2024,Free,Monthly,$4.79 ,13,36%,6,Organic,22,3,1
+1120,Cloudify,E-commerce,USA,8/10/2024,Basic,Monthly,$171.20 ,1,60%,3,Organic,24,3,1
+1515,Stripe,SaaS,U.S.A.,11/6/2024,Free,Monthly,$9.11 ,30,28%,7,Organic,25,3,1
+1503,HubSpot,FinTech,UK,4/8/2024,Free,Monthly,£5.38,8,57%,9,Referral,25,3,1
+1553,Zendesk,Real Estate,Australia,12/11/2024,Free,Monthly,$40.61 ,15,25%,9,google ads,25,3,1
+1565,Stripe,Real Estate,USA,2/12/2024,Free,monthly,$14.80 ,3,18%,6,Google Ads,25,3,1
+1559,MarketPro,Education,Australia,4/11/2024,Basic,Annual,$279.15 ,20,25%,9,Google Ads,26,3,1
+1564,DataNest,Education,UK,11/4/2024,Free,monthly,£7.45,7,70%,5,Organic,26,3,1
+1615,Stripe,FinTech,U.S.A.,13-06-2024,Free,Monthly,$2.03 ,5,32%,5,google ads,26,3,1
+2191,Notion,FinTech,Germany,19-03-2024,Free,Monthly,€17.13,19,12%,8,google ads,26,3,1
+1540,Salesforce,Healthcare,USA,10/23/2024,Free,Monthly,$42.67 ,9,34%,3,Organic,27,3,1
+1415,Salesforce,Healthcare,DE,7/16/2024,Free,monthly,€21.77,4,38%,9,Organic,27,3,1
+1313,Cloudify,Real Estate,UK,18-11-2024,Free,Monthly,£19.6,6,27%,5,Referral,28,3,1
+2198,Notion,Real Estate,U.K.,12/13/2024,Free,Monthly,£7.35,3,27%,4,google ads,29,3,1
+1123,Notion,FinTech,Germany,14-11-2024,Free,monthly,€18.49,30,21%,7,google ads,29,3,1
+2065,Zendesk,SaaS,USA,9/3/2024,Free,monthly,$14.35 ,8,52%,8,Organic,30,3,1
+2052,Cloudify,Education,India,3/6/2024,Free,monthly,$0.56 ,28,5%,4,Organic,30,3,1
+1734,Zendesk,Healthcare,Australia,7/10/2024,Free,Monthly,$21.93 ,26,3%,7,google ads,30,3,1
+1517,Cloudify,Real Estate,UK,8/26/2024,Pro,monthly,£88.86,26,36%,3,google ads,31,3,1
+1587,Zendesk,Education,USA,11/13/2024,Free,Monthly,"$1,039.20 ",26,43%,7,Google Ads,31,3,1
+1443,MarketPro,Marketing,Australia,22-10-2024,Free,Monthly,$4.18 ,4,46%,5,Organic,52,3,1
+1586,DataNest,FinTech,Germany,4/12/2024,Free,Monthly,€1.28,8,62%,6,Organic,52,3,1
+1171,Notion,Education,U.K.,16-10-2024,Free,Monthly,£17.97,4,6%,8,google ads,52,3,1
+1364,DataNest,Marketing,UK,6/9/2024,Free,monthly,£82.39,17,58%,5,LinkedIn Ads,52,3,1
+1185,Zendesk,E-commerce,USA,9/3/2024,Free,monthly,$25.71 ,10+,19%,7,google ads,52,3,1
+1048,Salesforce,Real Estate,USA,1/3/2024,Basic,Monthly,$187.56 ,10+,29%,5,google ads,52,3,1
+1002,Stripe,SaaS,U.S.A.,4/15/2024,Free,monthly,$29.35 ,16,58%,8,Organic,34,3,0
+1628,DataNest,Real Estate,UK,5/16/2024,Free,monthly,£1.97,4,25%,5,google ads,33,3,1
+1705,Cloudify,E-commerce,USA,6/7/2024,Free,Monthly,$2.80 ,9,24%,5,Referral,33,3,1
+1976,DataNest,Education,UK,23-04-2024,Free,Monthly,£31.29,10,45%,5,Organic,33,3,1
+1405,Notion,Education,Germany,2/8/2024,Free,Monthly,€36.39,26,26%,11,Google Ads,33,3,1
+2168,Salesforce,Healthcare,DE,9/13/2024,Free,Monthly,€2.25,5,38%,2,Organic,34,3,1
+1454,MarketPro,SaaS,Canada,1/13/2024,Free,Monthly,$23.57 ,19,59%,7,Referral,34,3,1
+1425,Stripe,Healthcare,U.S.A.,11/21/2024,Basic,Monthly,$141.01 ,10+,37%,4,google ads,34,3,1
+1271,Cloudify,SaaS,USA,8/4/2024,Basic,Monthly,$66.43 ,5,6%,7,google ads,34,3,1
+1046,MarketPro,Education,USA,3/2/2024,Free,Monthly,$32.85 ,21,16%,10,Google Ads,34,3,1
+1739,Cloudify,Real Estate,UK,9/20/2024,Free,monthly,£8.32,10+,17%,4,Organic,35,3,1
+1932,DataNest,Real Estate,DE,1/6/2024,Free,monthly,€4.56,27,7%,4,Google Ads,35,3,1
+1805,HubSpot,SaaS,United Kingdom,3/9/2024,Free,monthly,£12.27,10+,29%,8,Google Ads,37,3,1
+2038,Stripe,FinTech,USA,13-03-2024,Free,monthly,$9.67 ,7,40%,7,google ads,38,3,1
+2089,DataNest,SaaS,UK,10/7/2024,Free,monthly,£2.63,15,29%,8,Google Ads,38,3,1
+1822,MarketPro,Healthcare,Canada,10/21/2024,Free,Monthly,$43.33 ,15,13%,5,Google Ads,39,3,1
+1871,DataNest,Marketing,UK,18-05-2024,Free,Monthly,£18.2,26,24%,6,google ads,39,3,1
+1763,Salesforce,E-commerce,DE,12/1/2024,Free,Monthly,€7.76,110,35%,3,Google Ads,40,3,1
+1356,MarketPro,Marketing,USA,18-07-2024,Free,Monthly,$1.01 ,29,29%,4,google ads,40,3,1
+1834,Salesforce,FinTech,USA,1/16/2024,Free,monthly,$26.17 ,10+,8%,5,Google Ads,40,3,1
+1380,Cloudify,Education,India,6/18/2024,Free,Monthly,$12.61 ,10+,42%,7,Organic,40,3,1
+1380,Cloudify,Education,India,6/18/2024,Free,Monthly,$12.61 ,10+,42%,7,Organic,40,3,1
+1492,Zendesk,Real Estate,Australia,6/12/2024,Free,Monthly,$1.24 ,15,27%,8,Google Ads,42,3,1
+1784,HubSpot,Education,UK,4/11/2024,Free,Monthly,£23.97,10+,34%,6,Google Ads,46,3,1
+1774,FinCorp,E-commerce,U.K.,25-11-2024,Free,Monthly,£26.76,21,41%,5,Google Ads,47,3,1
+1052,FinCorp,FinTech,USA,1/4/2024,Free,monthly,$22.31 ,10+,31%,1,Referral,49,3,1
+1898,Salesforce,FinTech,USA,12/12/2024,Free,Monthly,$19.03 ,21,19%,5,Google Ads,49,3,1
+1862,Zendesk,SaaS,USA,19-12-2024,Free,Monthly,$24.89 ,21,7%,6,google ads,49,3,1
+1808,HubSpot,Marketing,USA,12/27/2024,Free,Monthly,$23.02 ,12,16%,7,google ads,50,3,1
+1994,DataNest,SaaS,UK,8/15/2024,Free,Monthly,£57.06,18,40%,6,Google Ads,52,3,1
+2082,Zendesk,E-commerce,Australia,4/15/2024,Free,Monthly,$2.99 ,16,41%,9,google ads,52,3,1
+2044,HubSpot,Marketing,United Kingdom,9/10/2024,Free,Monthly,£8.97,22,122%,5,Google Ads,54,3,1
+1262,HubSpot,SaaS,UK,8/28/2024,Free,Monthly,£1.66,1,30%,5,Google Ads,57,3,1
+1221,Cloudify,Education,India,10/27/2024,Free,monthly,$8.52 ,26,14%,6,Organic,59,3,1
+1516,Notion,Real Estate,U.K.,4/7/2024,Basic,Monthly,£100.71,1,74%,4,Google Ads,30+,3,1
+1727,HubSpot,Real Estate,United Kingdom,23-11-2024,Free,monthly,£24.21,7,28%,5,Organic,34,3,1
+1772,HubSpot,Education,USA,4/7/2024,Free,Monthly,$26.89 ,2,28%,5,Organic,34,3,1
+1905,HubSpot,Healthcare,USA,9/10/2024,Free,Monthly,$19.45 ,11,10%,5,Google Ads,34,3,1
+1025,Notion,E-commerce,UK,3/24/2024,Free,Monthly,£62.53,11,15%,5,Google Ads,34,3,1
+1662,Stripe,Healthcare,Canada,6/15/2024,Free,Monthly,$0.73 ,28,15%,7,Google Ads,30+,3,1
+1756,FinCorp,FinTech,USA,12/19/2024,Free,Monthly,$11.90 ,23,16%,3,LinkedIn Ads,30+,3,1
+2091,HubSpot,Marketing,USA,3/24/2024,Basic,Annual,$433.06 ,26,43%,8,Direct,30+,3,1
+1456,DataNest,FinTech,Germany,6/11/2024,Free,Monthly,€5.64,25,15%,9,google ads,30+,3,1
+1577,HubSpot,SaaS,United Kingdom,15-08-2024,Free,monthly,£3.03,1,21%,9,Google Ads,30+,3,1
+1669,Notion,Real Estate,Germany,12/16/2024,Free,Monthly,€12.28,8,34%,4,Organic,30+,3,1
+1537,HubSpot,Education,USA,20-06-2024,Free,Monthly,$28.09 ,13,62%,5,LinkedIn Ads,45,3,1
+1549,FinCorp,Marketing,India,7/12/2024,Free,Monthly,$51.42 ,18,19%,5,google ads,45,3,1
+1636,HubSpot,Education,UK,21-09-2024,Free,Monthly,£20.64,10+,13%,5,google ads,45,3,1
+1837,Salesforce,Real Estate,USA,11/12/2024,Free,Monthly,$5.02 ,13,11%,5,Google Ads,30+,3,1
+1316,Stripe,Real Estate,USA,7/5/2024,Free,Monthly,$1.83 ,10,24%,6,Google Ads,30+,3,1
+1931,Zendesk,Real Estate,Australia,1/1/2024,Free,Monthly,$11.19 ,8,14%,6,Google Ads,46,3,1
+1933,Zendesk,Education,USA,7/5/2024,Free,Monthly,$23.75 ,10+,4%,6,google ads,46,3,1
+1953,Stripe,Real Estate,U.S.A.,7/14/2024,Free,monthly,$1.91 ,29,43%,6,Google Ads,46,3,1
+2095,FinCorp,Real Estate,Canada,5/14/2024,Free,Monthly,$12.07 ,9,43%,6,Organic,46,3,1
+1191,FinCorp,E-commerce,U.S.A.,5/9/2024,Basic,monthly,$98.57 ,10+,28%,7,Google Ads,46,3,1
+1589,Stripe,Education,U.S.A.,3/8/2024,Free,Monthly,$7.97 ,23,38%,7,google ads,30+,3,1
+1582,HubSpot,Marketing,UK,9/1/2024,Free,monthly,£16.36,22,14%,8,Google Ads,30+,3,1
+1818,HubSpot,SaaS,USA,11/3/2024,Free,monthly,$46.92 ,22,17%,8,google ads,30+,3,1
+2058,Zendesk,E-commerce,Australia,3/26/2024,Free,Monthly,$25.38 ,26,18%,8,Google Ads,30+,3,1
+2112,FinCorp,Marketing,India,6/20/2024,Free,Monthly,$3.02 ,78,37%,8,Organic,30+,3,1
+2162,Cloudify,FinTech,India,1/11/2024,Free,Monthly,$1.63 ,10+,8%,8,Organic,30+,3,1
+1071,Cloudify,FinTech,USA,7/18/2024,Free,Monthly,$22.93 ,7,18%,9,Organic,30+,3,1
+2157,Cloudify,Healthcare,USA,5/7/2024,Basic,monthly,$48.64 ,9,3%,9,Google Ads,30+,3,1
+2159,Zendesk,SaaS,USA,22-12-2024,Free,Monthly,$24.75 ,29,22%,9,google ads,30+,3,1
+1981,Zendesk,FinTech,USA,2/6/2024,Free,Monthly,$12.20 ,8,23%,10,Google Ads,30+,3,1
+1004,FinCorp,FinTech,U.S.A.,7/4/2024,Free,monthly,$5.65 ,7,15%,11,Google Ads,30+,3,1
+1487,FinCorp,Healthcare,Australia,21-08-2024,Free,Monthly,$3.26 ,6,32%,11,Referral,30+,3,1
+1594,Stripe,FinTech,America,4/15/2024,Free,Monthly,$2.23 ,13,72%,0,Organic,11,3,0
+1785,FinCorp,SaaS,DE,3/19/2024,Free,Monthly,€23.35,10,13%,8,Organic,20,3,0
+1612,Cloudify,Marketing,USA,11/17/2024,Pro,Annual,$68.16 ,4,36%,3,Google Ads,10,3,0
+1459,DataNest,E-commerce,DE,1/5/2024,Free,monthly,€12.86,4,30%,1,Google Ads,43,3,0
+1198,HubSpot,Real Estate,USA,12/25/2024,Basic,Annual,$133.29 ,12,50%,5,google ads,37,2,1
+1939,Notion,Healthcare,U.K.,11/1/2024,Free,Monthly,£1.85,9,33%,8,Organic,37,2,1
+1128,Zendesk,E-commerce,Australia,7/19/2024,Free,monthly,$19.40 ,10,29%,8,Organic,37,2,1
+1718,MarketPro,Healthcare,Canada,3/3/2024,Basic,Monthly,$104.35 ,17,57%,4,Google Ads,24,2,1
+2158,DataNest,E-commerce,DE,12/13/2024,Free,Monthly,€24.91,3,47%,4,Referral,24,2,1
+1603,Zendesk,FinTech,USA,12/24/2024,Basic,monthly,$49.20 ,20,31%,7,google ads,25,2,1
+1010,Salesforce,E-commerce,DE,27-01-2024,Free,monthly,€23.62,10+,30%,4,LinkedIn Ads,26,2,1
+2160,Notion,Marketing,USA,23-08-2024,Basic,Monthly,$152.61 ,5,57%,5,google ads,28,2,1
+1978,Salesforce,Healthcare,Germany,7/26/2024,Free,Monthly,€0.63,7,26%,3,Organic,28,2,1
+1130,DataNest,Healthcare,UK,8/9/2024,Free,Monthly,£17.39,30,29%,6,Organic,28,2,1
+1012,DataNest,E-commerce,Germany,9/9/2024,Free,Monthly,€42.99,10+,39%,5,Referral,52,2,1
+1411,Zendesk,FinTech,Australia,4/10/2024,Free,monthly,$9.89 ,28,28%,9,Organic,33,2,1
+1934,DataNest,Marketing,UK,11/18/2024,Free,monthly,£1.32,28,39%,5,Google Ads,39,2,0
+1411,Zendesk,FinTech,Australia,4/10/2024,Free,monthly,$9.89 ,28,28%,9,Organic,33,2,1
+1895,Zendesk,FinTech,Australia,8/18/2024,Free,Monthly,$38.51 ,28,69%,4,Referral,34,2,1
+1573,Salesforce,Marketing,DE,8/11/2024,Basic,monthly,€200.25,15,28%,7,Google Ads,34,2,1
+1368,Salesforce,E-commerce,DE,15-10-2024,Basic,Annual,€34.36,8,60%,7,Google Ads,30+,2,1
+1604,MarketPro,Education,USA,11/7/2024,Free,monthly,$159.75 ,9,26%,4,LinkedIn Ads,30+,2,1
+1227,DataNest,E-commerce,DE,3/10/2024,Free,Monthly,€1.62,30,74%,6,Organic,30+,2,1
+1799,Zendesk,Marketing,Australia,4/16/2024,Free,Monthly,$57.19 ,24,57%,6,Organic,46,2,1
+2100,Notion,Real Estate,Germany,2/21/2024,Free,Monthly,€19.25,10+,56%,6,Organic,46,2,1
+1266,Salesforce,SaaS,DE,9/26/2024,Free,Monthly,€0.19,3,29%,5,LinkedIn Ads,10,2,1
+1155,Stripe,Education,America,7/14/2024,Free,Monthly,$86.44 ,24,44%,5,Organic,44,2,1
+1716,FinCorp,Education,DE,1/6/2024,Basic,Annual,€65.94,13,50%,3,Organic,44,2,1
+2136,Cloudify,Real Estate,USA,8/21/2024,Basic,Monthly,$88.54 ,10+,27%,4,Organic,23,2,1
+1991,MarketPro,Marketing,Canada,1/17/2024,Free,Monthly,$52.16 ,14,66%,5,Referral,23,2,1
+1579,MarketPro,E-commerce,USA,2/1/2024,Basic,Monthly,$92.89 ,16,65%,5,Google Ads,34,2,1
+1037,MarketPro,E-commerce,Canada,23-06-2024,Free,Monthly,$1.49 ,22,67%,1,Referral,34,2,1
+1225,Stripe,Real Estate,U.S.A.,10/22/2024,Basic,Annual,$120.67 ,7,54%,2,Google Ads,34,2,1
+1269,DataNest,Healthcare,Germany,9/9/2024,Free,Monthly,€10.08,23,35%,2,google ads,22,2,0
+1281,FinCorp,Marketing,U.K.,11/12/2024,Free,Monthly,£1.15,17,16%,4,Organic,8,2,0
+1081,Cloudify,Healthcare,UK,4/4/2024,Free,Monthly,£0.07,15,32%,4,Organic,22,2,0
+1625,Salesforce,SaaS,Germany,4/8/2024,Free,monthly,€8.24,24,7%,5,google ads,37,2,1
+1431,Cloudify,SaaS,India,1/13/2024,Free,Monthly,$26.37 ,18,44%,6,Google Ads,23,2,1
+1744,DataNest,Education,DE,1/8/2024,Free,Monthly,€3.52,18,13%,6,Google Ads,23,2,1
+1779,HubSpot,FinTech,United Kingdom,6/18/2024,Free,monthly,£45.59,27,10%,9,Google Ads,23,2,1
+1051,Zendesk,Real Estate,USA,7/22/2024,Free,Monthly,$30.26 ,5,5%,10,Google Ads,24,2,1
+1661,Zendesk,Healthcare,Australia,12/15/2024,Free,Monthly,$0.37 ,10+,10%,4,Google Ads,26,2,1
+1333,HubSpot,Education,United Kingdom,4/2/2024,Free,monthly,£4.17,1,16%,7,Google Ads,29,2,1
+1935,MarketPro,Education,USA,19-07-2024,Free,Monthly,$3.22 ,7,9%,7,Google Ads,30,2,1
+1886,Salesforce,E-commerce,Germany,11/7/2024,Free,monthly,€13.94,5,7%,6,Google Ads,52,2,1
+1283,Zendesk,SaaS,USA,20-04-2024,Free,Monthly,$1.72 ,8,39%,8,Google Ads,52,2,1
+2120,FinCorp,Healthcare,Australia,9/26/2024,Free,Monthly,$12.35 ,8,20%,7,Organic,52,2,1
+2120,FinCorp,Healthcare,Australia,9/26/2024,Free,Monthly,$12.35 ,8,20%,7,Organic,52,2,1
+1836,Notion,Marketing,Germany,19-02-2024,Free,Monthly,€18.25,1,26%,4,Google Ads,33,2,1
+1028,Notion,Education,USA,12/11/2024,Free,Monthly,$4.20 ,14,22%,5,google ads,33,2,1
+1702,MarketPro,Real Estate,Canada,12/5/2024,Free,monthly,$10.17 ,15,34%,7,Google Ads,35,2,1
+1180,Cloudify,SaaS,USA,2/17/2024,Free,Monthly,$2.71 ,3,4%,8,Organic,38,2,1
+1990,Notion,FinTech,UK,6/3/2024,Free,Monthly,£33.57,9,22%,5,google ads,40,2,1
+1985,FinCorp,Healthcare,USA,27-05-2024,Basic,Annual,$50.61 ,23,24%,10,google ads,40,2,1
+2115,Cloudify,Real Estate,India,6/1/2024,Free,monthly,$11.80 ,15,23%,8,Organic,41,2,1
+1138,Salesforce,Real Estate,USA,9/12/2024,Free,monthly,$14.39 ,20,43%,7,Google Ads,42,2,1
+2133,Zendesk,FinTech,USA,12/1/2024,Free,Monthly,$20.42 ,24,32%,8,google ads,42,2,1
+1736,MarketPro,Education,USA,3/15/2024,Free,Monthly,$0.09 ,30,42%,4,google ads,44,2,1
+1602,HubSpot,Education,UK,3/5/2024,Free,Monthly,£19.67,10+,6%,7,Google Ads,49,2,1
+2163,FinCorp,Healthcare,America,4/15/2024,Free,Monthly,$4.48 ,27,29%,8,Google Ads,49,2,1
+1274,HubSpot,Real Estate,UK,8/6/2024,Free,Monthly,£0.1,10+,10%,6,Google Ads,51,2,1
+1521,MarketPro,Marketing,Australia,6/17/2024,Free,Monthly,$5.20 ,12,34%,1,Google Ads,22,2,0
+1145,MarketPro,Education,USA,22-12-2024,Free,Monthly,$8.35 ,3,17%,9,google ads,51,2,1
+1201,DataNest,Real Estate,DE,5/25/2024,Free,Monthly,€4.01,24,18%,5,Google Ads,55,2,1
+1946,FinCorp,SaaS,U.S.A.,7/22/2024,Free,Monthly,$60.61 ,13,21%,5,Organic,55,2,1
+1230,Zendesk,Healthcare,Australia,8/6/2024,Free,monthly,$26.62 ,10,4%,5,google ads,56,2,1
+1194,HubSpot,SaaS,United Kingdom,17-02-2024,Free,Monthly,£11.85,10,22%,5,Google Ads,58,2,1
+2098,Notion,Education,USA,1/10/2024,Free,Monthly,$3.87 ,5,21%,13,google ads,58,2,1
+1995,FinCorp,SaaS,USA,12/26/2024,Basic,Monthly,$209.23 ,10+,9%,5,Google Ads,34,2,1
+1137,Stripe,SaaS,America,3/3/2024,Free,Monthly,$26.49 ,9,36%,3,google ads,30+,2,1
+1600,Cloudify,Education,UK,6/28/2024,Free,monthly,£1.94,15,12%,7,google ads,30+,2,1
+2054,DataNest,Education,UK,12/14/2024,Free,monthly,£13.74,18,6%,8,Google Ads,30+,2,1
+1239,Zendesk,E-commerce,USA,18-05-2024,Free,Monthly,$29.01 ,12,35%,8,Google Ads,30+,2,1
+1449,Cloudify,Education,USA,8/26/2024,Free,Monthly,$2.92 ,10+,15%,4,google ads,30+,2,1
+1464,Cloudify,SaaS,India,3/27/2024,Free,Monthly,$1.78 ,2,39%,9,Organic,30+,2,1
+1496,HubSpot,Education,USA,6/21/2024,Free,Monthly,$6.97 ,20,12%,9,Google Ads,30+,2,1
+1027,Cloudify,Education,USA,1/22/2024,Free,Monthly,$9.88 ,22,5%,5,Google Ads,30+,2,1
+1044,FinCorp,SaaS,America,24-08-2024,Free,monthly,$4.29 ,19,33%,5,Google Ads,30+,2,1
+1222,Notion,SaaS,U.K.,5/10/2024,Free,Monthly,£6.21,30,18%,5,Google Ads,30+,2,1
+1344,Salesforce,Marketing,DE,25-09-2024,Free,Monthly,€7.09,13,23%,5,Google Ads,45,2,1
+1525,Zendesk,Marketing,USA,4/18/2024,Free,monthly,$12.85 ,23,36%,5,Google Ads,45,2,1
+1804,Zendesk,Marketing,USA,5/9/2024,Free,Monthly,$50.66 ,21,13%,5,Google Ads,30+,2,1
+2030,MarketPro,SaaS,Australia,2/23/2024,Free,monthly,$10.88 ,18,5%,5,Google Ads,30+,2,1
+2121,HubSpot,Real Estate,USA,18-07-2024,Free,Monthly,$9.33 ,10+,36%,5,Google Ads,30+,2,1
+1044,FinCorp,SaaS,America,24-08-2024,Free,monthly,$4.29 ,19,33%,5,Google Ads,30+,2,1
+1344,Salesforce,Marketing,DE,25-09-2024,Free,Monthly,€7.09,13,23%,5,Google Ads,30+,2,1
+1190,HubSpot,E-commerce,UK,5/13/2024,Free,Monthly,£3.27,17,23%,6,Google Ads,30+,2,1
+1776,DataNest,Healthcare,DE,28-10-2024,Free,monthly,€16.81,16,10%,6,Google Ads,46,2,1
+2118,Salesforce,Healthcare,USA,2/1/2024,Free,Monthly,$4.93 ,29,18%,6,Google Ads,46,2,1
+1419,FinCorp,Education,United Kingdom,3/25/2024,Basic,monthly,£99.6,10,7%,7,Google Ads,46,2,1
+1445,Stripe,Marketing,U.S.A.,6/26/2024,Free,Monthly,$15.92 ,93,26%,7,google ads,46,2,1
+1696,Zendesk,SaaS,USA,3/1/2024,Free,Monthly,$9.14 ,21,39%,7,Google Ads,30+,2,1
+1811,Stripe,Real Estate,America,8/13/2024,Free,Monthly,$2.49 ,29,9%,7,google ads,30+,2,1
+2057,Notion,E-commerce,USA,2/9/2024,Free,Monthly,$11.79 ,11,32%,7,google ads,30+,2,1
+1199,Cloudify,SaaS,USA,5/25/2024,Free,Monthly,$32.27 ,21,8%,8,Organic,30+,2,1
+1723,MarketPro,FinTech,Australia,27-03-2024,Free,Monthly,$15.17 ,17,21%,8,google ads,30+,2,1
+1956,FinCorp,E-commerce,India,12/11/2024,Free,Monthly,$5.98 ,22,37%,8,Organic,30+,2,1
+1426,Notion,Real Estate,U.K.,2/1/2024,Free,Monthly,£37.51,12,23%,10,Google Ads,30+,2,1
+1847,HubSpot,Real Estate,United Kingdom,8/16/2024,Free,Monthly,£14.17,6,15%,3,Google Ads,36,2,0
+1188,Salesforce,Marketing,Germany,5/1/2024,Free,Monthly,€12.05,3,38%,1,google ads,26,2,0
+1647,Notion,Healthcare,UK,7/4/2024,Free,monthly,£1.18,8,37%,8,google ads,20,1,0
+1864,Stripe,Education,USA,17-01-2024,Free,Monthly,$45.41 ,28,7%,6,Google Ads,37,1,1
+1588,MarketPro,Education,Canada,13-06-2024,Free,Monthly,$4.90 ,10+,18%,8,google ads,37,1,1
+1442,HubSpot,SaaS,USA,7/26/2024,Free,Monthly,$14.97 ,10+,15%,14,google ads,37,1,1
+1096,DataNest,Real Estate,Germany,10/8/2024,Free,monthly,€44.17,9,11%,4,google ads,37,1,1
+1218,Cloudify,Education,UK,25-11-2024,Free,Monthly,£14.48,25,17%,9,google ads,23,1,1
+1951,Cloudify,E-commerce,USA,7/7/2024,Free,Monthly,$11.82 ,13,14%,4,Organic,24,1,1
+1204,Cloudify,Healthcare,India,1/13/2024,Free,Monthly,$0.35 ,23,39%,8,Referral,24,1,1
+2043,Cloudify,E-commerce,India,7/24/2024,Free,monthly,$81.63 ,1,38%,9,Organic,24,1,1
+1394,Cloudify,SaaS,USA,1/26/2024,Free,monthly,$23.78 ,10+,33%,4,google ads,26,1,1
+1576,FinCorp,Real Estate,UK,24-11-2024,Free,Monthly,£29.43,21,13%,5,Referral,26,1,1
+1346,HubSpot,E-commerce,United Kingdom,22-03-2024,Free,monthly,£18.03,15,18%,6,google ads,26,1,1
+1226,Salesforce,E-commerce,DE,10/5/2024,Free,Monthly,€1.8,24,39%,8,google ads,31,1,1
+1289,DataNest,FinTech,UK,22-05-2024,Free,Monthly,£3.53,20,6%,4,Google Ads,52,1,1
+1326,Stripe,Real Estate,U.S.A.,3/25/2024,Free,Monthly,$0.36 ,17,3%,7,Google Ads,34,1,1
+2151,Notion,Marketing,Germany,11/10/2024,Free,monthly,€8.34,10,36%,8,Google Ads,34,1,1
+1796,Salesforce,Education,USA,12/8/2024,Free,Monthly,$3.10 ,24,28%,5,google ads,36,1,1
+1331,MarketPro,Education,Canada,7/3/2024,Free,Monthly,$6.62 ,10,4%,7,google ads,37,1,1
+1068,Zendesk,E-commerce,USA,6/11/2024,Free,monthly,$0.56 ,15,15%,8,Google Ads,38,1,1
+1889,FinCorp,Healthcare,Germany,12/28/2024,Free,Monthly,€10.95,1,40%,5,Referral,42,1,1
+1858,Cloudify,Healthcare,UK,10/5/2024,Basic,monthly,£43.56,8,18%,4,google ads,46,1,1
+1251,Cloudify,E-commerce,India,25-07-2024,Free,monthly,$21.81 ,10,28%,6,Organic,46,1,1
+1053,Cloudify,SaaS,USA,2/13/2024,Free,Monthly,$9.08 ,7,35%,6,Organic,47,1,1
+1471,FinCorp,E-commerce,USA,5/10/2024,Free,Monthly,$4.56 ,15,9%,8,Google Ads,50,1,1
+2083,FinCorp,SaaS,USA,3/21/2024,Free,Monthly,$24.29 ,6,3%,7,Referral,55,1,1
+1255,FinCorp,Marketing,DE,3/11/2024,Free,Monthly,€6.12,10+,16%,2,Organic,56,1,1
+1644,Salesforce,E-commerce,Germany,23-05-2024,Free,Monthly,€5.72,10+,34%,4,Google Ads,56,1,1
+1292,Cloudify,Education,USA,2/22/2024,Free,Monthly,$12.97 ,17,18%,7,Google Ads,56,1,1
+1923,DataNest,SaaS,UK,7/13/2024,Free,Monthly,£3.0,6,36%,0,Google Ads,30+,1,1
+1400,Cloudify,SaaS,UK,21-02-2024,Free,monthly,£2.81,26,22%,7,google ads,34,1,1
+1404,Notion,E-commerce,USA,5/23/2024,Free,Monthly,$5.14 ,6,27%,7,Google Ads,30+,1,1
+1172,Salesforce,FinTech,DE,11/22/2024,Free,Monthly,€24.22,14,32%,8,Google Ads,30+,1,1
+1268,HubSpot,FinTech,UK,3/6/2024,Free,Monthly,£15.31,10+,42%,8,google ads,30+,1,1
+1893,FinCorp,Marketing,U.S.A.,1/7/2024,Free,Monthly,$26.51 ,27,36%,4,Google Ads,30+,1,1
+1961,Notion,Marketing,U.K.,7/16/2024,Free,monthly,£12.91,28,41%,4,Google Ads,30+,1,1
+1178,Cloudify,FinTech,USA,10/15/2024,Basic,ANNUAL,$160.58 ,5,28%,5,Google Ads,30+,1,1
+1555,Cloudify,E-commerce,India,22-06-2024,Free,Monthly,$19.04 ,22,8%,5,Google Ads,45,1,1
+1302,Cloudify,E-commerce,UK,12/14/2024,Free,Monthly,£8.62,8,16%,6,Referral,30+,1,1
+1334,FinCorp,FinTech,U.K.,8/18/2024,Basic,Annual,£112.39,28,22%,6,Google Ads,30+,1,1
+1476,DataNest,E-commerce,Germany,9/6/2024,Free,Monthly,€15.88,18,39%,6,Google Ads,30+,1,1
+1581,DataNest,Real Estate,UK,13-04-2024,Free,Monthly,£9.87,18,24%,6,Google Ads,46,1,1
+1618,Cloudify,FinTech,UK,5/6/2024,Free,Monthly,£2.18,22,2%,6,Organic,46,1,1
+1005,DataNest,FinTech,UK,18-05-2024,Free,Monthly,£9.08,17,24%,7,Google Ads,46,1,1
+1264,FinCorp,Education,America,11/25/2024,Free,Monthly,$9.60 ,13,28%,7,LinkedIn Ads,46,1,1
+1463,HubSpot,Real Estate,USA,8/6/2024,Free,Monthly,$2.59 ,4,43%,7,google ads,46,1,1
+1562,Notion,FinTech,UK,8/23/2024,Free,Monthly,£6.59,12,32%,7,google ads,46,1,1
+1843,MarketPro,Education,Canada,4/6/2024,Free,Monthly,$8.06 ,1,43%,7,Google Ads,30+,1,1
+1854,Salesforce,Healthcare,Germany,1/23/2024,Free,Monthly,€41.91,9,41%,7,Google Ads,30+,1,1
+1868,HubSpot,Healthcare,UK,12/25/2024,Free,Monthly,£2.13,11,10%,7,Google Ads,30+,1,1
+1899,DataNest,Education,UK,5/21/2024,Free,monthly,£46.82,24,31%,8,google ads,30+,1,1
+1069,Cloudify,Healthcare,UK,7/11/2024,Free,Monthly,£23.51,17,13%,9,Google Ads,30+,1,1
+1115,Stripe,FinTech,Canada,4/27/2024,Free,monthly,$8.37 ,4,23%,9,Google Ads,30+,1,1
+1535,DataNest,Marketing,UK,9/5/2024,Free,Monthly,£0.36,12,18%,9,google ads,30+,1,1
+1502,MarketPro,Education,Canada,11/5/2024,Free,Monthly,$9.13 ,14,42%,11,Google Ads,30+,1,1
+1748,FinCorp,Education,United Kingdom,14-09-2024,Free,Monthly,£1.53,28,4%,12,Organic,30+,1,1
+1383,HubSpot,E-commerce,United Kingdom,9/2/2024,Free,Monthly,£0.01,9,17%,9,Google Ads,22,0,1
+1359,Notion,Real Estate,USA,9/6/2024,Free,Monthly,$10.25 ,28,32%,7,Google Ads,23,0,1
+1417,Notion,SaaS,UK,1/14/2024,Free,monthly,£20.62,6,5%,8,google ads,23,0,1
+1195,MarketPro,FinTech,Canada,6/4/2024,Free,Monthly,$0.51 ,9,23%,7,Google Ads,26,0,1
+1831,DataNest,FinTech,DE,10/8/2024,Free,monthly,€3.63,21,37%,3,Direct,27,0,1
+1746,Stripe,E-commerce,America,3/6/2024,Free,Monthly,$27.51 ,4,35%,4,Google Ads,29,0,1
+1122,HubSpot,FinTech,UK,19-06-2024,Free,monthly,£8.0,7,41%,9,Google Ads,29,0,1
+1207,DataNest,Marketing,DE,1/3/2024,Free,monthly,€10.78,16,40%,11,Google Ads,30,0,1
+2032,Salesforce,Healthcare,Germany,9/16/2024,Free,Monthly,€6.85,3,42%,6,Google Ads,52,0,1
+2011,DataNest,SaaS,DE,22-12-2024,Free,Monthly,€13.76,10+,4%,5,google ads,52,0,1
+1001,MarketPro,Marketing,USA,4/8/2024,Free,Monthly,$5.49 ,9,3%,5,google ads,33,0,1
+2056,DataNest,FinTech,DE,18-06-2024,Free,Monthly,€12.35,10+,41%,7,google ads,33,0,1
+1781,MarketPro,Education,USA,11/4/2024,Free,monthly,$1.20 ,15,10%,7,Google Ads,35,0,1
+2085,Notion,Real Estate,USA,22-02-2024,Free,Monthly,$3.72 ,2,32%,8,Google Ads,36,0,1
+1065,DataNest,Real Estate,Germany,17-09-2024,Free,monthly,€23.45,11,34%,12,Google Ads,36,0,1
+1013,Cloudify,Education,UK,6/8/2024,Free,Monthly,£25.24,30,16%,6,Organic,38,0,1
+1451,Zendesk,FinTech,USA,12/3/2024,Free,Monthly,$48.72 ,20,35%,6,google ads,38,0,1
+2149,Zendesk,Real Estate,Australia,16-03-2024,Free,Monthly,$0.50 ,17,28%,6,google ads,38,0,1
+1693,Zendesk,FinTech,USA,12/3/2024,Free,Monthly,$11.94 ,1,27%,4,Google Ads,42,0,1
+1679,FinCorp,SaaS,Germany,6/4/2024,Free,monthly,€29.17,10+,43%,8,LinkedIn Ads,42,0,1
+1791,Cloudify,Education,USA,9/7/2024,Free,Monthly,$19.12 ,30,14%,4,Organic,43,0,1
+2140,HubSpot,SaaS,UK,1/16/2024,Free,Monthly,£4.88,10+,32%,6,google ads,45,0,1
+1882,FinCorp,Marketing,DE,10/2/2024,Free,Monthly,€4.1,10,5%,9,google ads,47,0,1
+1795,Cloudify,Healthcare,UK,14-09-2024,Free,Monthly,£0.16,1,28%,6,Organic,48,0,1
+1102,DataNest,FinTech,DE,23-05-2024,Free,Monthly,€9.3,19,12%,8,google ads,48,0,1
+2122,Cloudify,Healthcare,UK,4/28/2024,Basic,monthly,£250.98,3,3%,5,Google Ads,50,0,1
+1543,Zendesk,Real Estate,Australia,1/17/2024,Free,monthly,$9.22 ,23,28%,8,Google Ads,51,0,1
+1567,Cloudify,Real Estate,USA,11/1/2024,Free,Monthly,$23.48 ,10+,6%,9,Organic,52,0,1
+1782,Cloudify,Real Estate,UK,3/22/2024,Basic,Annual,£66.82,26,8%,4,Google Ads,52,0,1
+1979,DataNest,E-commerce,Germany,21-08-2024,Free,Monthly,€30.14,21,13%,9,google ads,52,0,1
+1741,Stripe,E-commerce,Canada,5/24/2024,Free,Monthly,$18.00 ,14,3%,11,Google Ads,53,0,1
+2075,Salesforce,E-commerce,USA,4/25/2024,Free,monthly,$17.40 ,8,22%,8,google ads,54,0,1
+1330,Cloudify,FinTech,USA,26-08-2024,Free,Monthly,$24.60 ,23,9%,4,Organic,55,0,1
+1435,Zendesk,Real Estate,USA,4/19/2024,Free,Monthly,$0.30 ,14,19%,7,google ads,55,0,1
+1914,FinCorp,FinTech,USA,24-05-2024,Free,Monthly,$10.11 ,25,32%,8,Google Ads,56,0,1
+1108,Zendesk,Real Estate,USA,3/16/2024,Free,Monthly,$5.80 ,10+,15%,10,google ads,56,0,1
+1381,HubSpot,Real Estate,United Kingdom,8/26/2024,Free,Monthly,£18.2,20,20%,5,google ads,59,0,1
+1474,FinCorp,Marketing,USA,3/3/2024,Free,Monthly,$1.13 ,9,9%,7,google ads,34,0,1
+1794,Cloudify,FinTech,India,8/26/2024,Free,Monthly,$5.64 ,10+,25%,2,LinkedIn Ads,34,0,1
+2036,Salesforce,Real Estate,USA,26-04-2024,Free,Monthly,$10.81 ,29,6%,5,google ads,34,0,1
+1193,Cloudify,Marketing,India,10/9/2024,Basic,ANNUAL,$84.29 ,26,37%,5,google ads,30+,0,1
+1058,Cloudify,Real Estate,UK,7/26/2024,Free,Monthly,£18.23,26,2%,4,google ads,30+,0,1
+1158,MarketPro,Education,Canada,12/4/2024,Free,monthly,$19.78 ,28,22%,8,google ads,30+,0,1
+1376,FinCorp,Real Estate,UK,16-03-2024,Basic,Annual,£65.65,26,5%,4,Google Ads,30+,0,1
+1609,MarketPro,Real Estate,Canada,12/22/2024,Free,monthly,$14.30 ,23,28%,4,Google Ads,30+,0,1
+1983,HubSpot,FinTech,United Kingdom,9/3/2024,Free,Monthly,£1.43,29,42%,4,google ads,30+,0,1
+1058,Cloudify,Real Estate,UK,7/26/2024,Free,Monthly,£18.23,26,2%,4,google ads,30+,0,1
+1609,MarketPro,Real Estate,Canada,12/22/2024,Free,monthly,$14.30 ,23,28%,4,Google Ads,30+,0,1
+1912,MarketPro,FinTech,Australia,2/10/2024,Free,Monthly,$20.52 ,5,12%,5,Google Ads,30+,0,1
+2167,HubSpot,Healthcare,United Kingdom,6/11/2024,Free,monthly,£13.61,9,44%,5,Google Ads,30+,0,1
+1788,FinCorp,Marketing,U.S.A.,17-07-2024,Free,Monthly,$48.59 ,11,28%,6,google ads,46,0,1
+1876,Cloudify,E-commerce,UK,8/19/2024,Free,Monthly,£4.45,21,6%,6,google ads,46,0,1
+1947,FinCorp,Education,UK,8/22/2024,Basic,monthly,£82.56,8,44%,6,Google Ads,46,0,1
+1250,DataNest,Real Estate,UK,11/22/2024,Free,Monthly,£20.44,21,21%,7,Google Ads,46,0,1
+1318,DataNest,Education,UK,1/1/2024,Free,Monthly,£7.85,8,43%,7,google ads,46,0,1
+1637,DataNest,E-commerce,DE,7/4/2024,Free,monthly,€12.24,12,31%,7,google ads,30+,0,1
+1691,FinCorp,Education,DE,7/1/2024,Free,Monthly,€11.27,9,6%,7,Direct,30+,0,1
+2146,Cloudify,Healthcare,USA,4/10/2024,Free,Monthly,$15.73 ,10+,9%,7,Google Ads,30+,0,1
+1099,Salesforce,Education,DE,7/10/2024,Free,monthly,€6.02,19,19%,8,Google Ads,30+,0,1
+1163,Cloudify,Real Estate,USA,1/10/2024,Free,Monthly,$15.34 ,3,9%,8,google ads,30+,0,1
+1568,Cloudify,E-commerce,UK,10/11/2024,Free,Monthly,£7.14,17,17%,9,Referral,30+,0,1
+1660,DataNest,E-commerce,Germany,1/5/2024,Free,monthly,€40.63,2,11%,9,google ads,30+,0,1
+1133,Notion,Education,UK,10/12/2024,Free,Monthly,£25.86,11,35%,10,Google Ads,30+,0,1
+1925,Notion,Real Estate,UK,12/25/2024,Free,monthly,£3.35,12,6%,11,google ads,30+,0,1
+1777,HubSpot,SaaS,United Kingdom,6/26/2024,Pro,Annual,£206.65,16,87%,1,Google Ads,10,,0
+1875,Stripe,Healthcare,America,28-04-2024,Basic,Monthly,$66.99 ,14,92%,2,Organic,16,,0
+2040,Cloudify,SaaS,UK,10/12/2024,Free,Monthly,£9.28,9,16%,5,Google Ads,23,,0
+1762,FinCorp,E-commerce,USA,16-04-2024,Free,Monthly,$3.33 ,8,31%,13,Organic,46,,1
+1873,HubSpot,FinTech,UK,4/17/2024,Free,Monthly,£18.29,12,38%,4,google ads,30+,,1
