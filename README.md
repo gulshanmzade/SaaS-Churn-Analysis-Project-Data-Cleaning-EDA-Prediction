@@ -4,13 +4,13 @@
 
 ## What is this project about?
 
-This project looks at a SaaS (Software-as-a-Service) company — any business that sells access to software through a subscription (think Notion, Netflix, Spotify, or any tool you pay for monthly/yearly). The whole business model depends on customers staying subscribed, so one of the biggest questions in a SaaS company is: **who is likely to cancel (churn), and why?**
+This project looks at a SaaS (Software-as-a-Service) company: any business that sells access to software through a subscription (e.g. Notion, Netflix, Spotify, or any tool you pay for monthly/yearly). The whole business model depends on customers staying subscribed, so one of the biggest questions in a SaaS company is: **who is likely to cancel (churn), and why?**
 
 That's what this notebook explores: cleaning a messy raw dataset, digging into customer behavior, extracting insights from the data, and building a simple model to predict churn.
 
 ## About the dataset
 
-This dataset was generated with AI. Most datasets found online are already clean and ready to plug into a model — good for learning, but not what real data actually looks like. In an actual job, most of the work is figuring out *why* the data is broken before you can say anything meaningful about it. So this dataset was built to be closer to that experience.
+This dataset was generated with AI. Most datasets found online are already clean and ready to plug into a model: not what real data actually looks like. In an actual job, most of the work is figuring out *why* the data is broken before you can say anything meaningful about it. So this dataset was built to be closer to that experience.
 
 It contains inconsistent country names, mixed currencies, percentage signs beside numbers, missing values, duplicates — the works.
 
